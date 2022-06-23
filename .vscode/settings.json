@@ -1,3 +1,4 @@
 {
-    "liveServer.settings.port": 5501
+    "liveServer.settings.port": 5501,
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "chrome --remote-debugging-port=9222 --incognito --profile-directory=Default"
 }

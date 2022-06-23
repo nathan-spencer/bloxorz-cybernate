@@ -1,0 +1,97 @@
+#animation_container,
+#_preload_div_ {
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+#animation_container,
+#_preload_div_,
+#dom_overlay_container {
+    width: 550px;
+    height: 300px;
+}
+
+#animation_container,
+#_preload_div_,
+#canvas,
+#dom_overlay_container {
+    /* position: absolute; */
+    float: left;
+    height: 100%;
+    overflow: hidden;
+}
+
+#animation_container {
+    background-color: rgba(0, 0, 0, 1.00);
+}
+
+#canvas {
+    display: none;
+    background-color: rgba(0, 0, 0, 1.00);
+}
+
+#_preload_div_ {
+    display: inline-block;
+    text-align: center;
+}
+
+#dom_overlay_container {
+    pointer-events: none;
+    overflow: hidden;
+    left: 0px;
+    top: 0px;
+    display: none;
+}
+
+.no-select {
+    -webkit-touch-callout: none;
+    /* iOS Safari */
+    -webkit-user-select: none;
+    /* Safari */
+    -khtml-user-select: none;
+    /* Konqueror HTML */
+    -moz-user-select: none;
+    /* Old versions of Firefox */
+    -ms-user-select: none;
+    /* Internet Explorer/Edge */
+    user-select: none;
+    /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
+}
+
+#timeTable {
+    /* background-color: purple; */
+    color: white;
+    float: left;
+    /* position: absolute; */
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* font-size: medium; */
+    /* font-weight: bold; */
+    width: 120px;
+    text-align: center;
+}
+
+.leftColumn {
+    width: 40%;
+}
+
+#headerRow {
+    /* background-color: aqua; */
+    width: 100%;
+    /* padding-right: 20px; */
+    /* margin: 20px; */
+}
+
+#timeRowsDiv {
+    /* height: 20%; */
+    /* height: 700px; */
+    /* overflow-y: auto; */
+    font-size: small;
+}
+
+body {
+    margin: 0px;
+}

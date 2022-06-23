@@ -542,3728 +542,2132 @@
         ]
     }];
 
-
     // symbols:
-
-
 
     (lib._123456789 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(0);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib._123456789_black = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(1);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib._91 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(2);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib._92 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(3);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib._93 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(4);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib._94 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(5);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib._95 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(6);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib._96 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(7);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib._97 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(8);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib._98 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(9);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib._99 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(10);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.attempts = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(11);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bbbbbacktomenuhover = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(12);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bbbbbacktomenu1 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(13);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bbbbcreditshover = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(14);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bbbbcredits = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(15);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bbbbloadpuzzlehover = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(16);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bbbbloadpuzzle = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(17);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bbbbnexthover = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(18);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bbbbnext = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(19);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bbbbprevhover = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(20);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bbbbprev = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(21);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bbbbquitmenuhover = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(22);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bbbbquitmenu = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(23);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bbbbresumehover = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(24);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bbbbresume = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(25);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bbbbreturngamehover = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(26);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bbbbreturngame = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(27);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bbbbskiphover = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(28);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bbbbskip = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(29);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bbbbsoundhover = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(30);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bbbbsound = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(31);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bbbbstartnewgamehover = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(32);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bbbbstartnewgame = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(33);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bbbbstartgamehover = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(34);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bbbbstartgame = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(35);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bettersky_22 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(36);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blip = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(37);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0000 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(38);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0001 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(39);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0002 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(40);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0003 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(41);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0004 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(42);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0005 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(43);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0006 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(44);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0007 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(45);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0008 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(46);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0009 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(47);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0010 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(48);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0011 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(49);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0012 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(50);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0013 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(51);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0014 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(52);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0015 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(53);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0016 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(54);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0017 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(55);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0018 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(56);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0019 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(57);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0020 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(58);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0021 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(59);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0022 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(60);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0023 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(61);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0024 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(62);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0025 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(63);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0026 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(64);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0027 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(65);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0028 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(66);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0029 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(67);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0030 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(68);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0031 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(69);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0032 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(70);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0033 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(71);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0034 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(72);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0035 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(73);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0036 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(74);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0037 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(75);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0038 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(76);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0039 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(77);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0040 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(78);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0041 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(79);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0042 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(80);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0043 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(81);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0044 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(82);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0045 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(83);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0046 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(84);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0047 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(85);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0048 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(86);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0049 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(87);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0050 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(88);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0051 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(89);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0052 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(90);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0053 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(91);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0054 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(92);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0055 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(93);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0056 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(94);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0057 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(95);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0058 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(96);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0059 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(97);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0060 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(98);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0061 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(99);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0062 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(100);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0063 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(101);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0064 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(102);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0065 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(103);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0066 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(104);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0067 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(105);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0068 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(106);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0069 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(107);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0070 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(108);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0071 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(109);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0072 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(110);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0073 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(111);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0074 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(112);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0075 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(113);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0076 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(114);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0077 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(115);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0078 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(116);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0079 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(117);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0080 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(118);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0081 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(119);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0082 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(120);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0083 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(121);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0084 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(122);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0085 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(123);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0086 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(124);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0087 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(125);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0088 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(126);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0089 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(127);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0090 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(128);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0091 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(129);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0092 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(130);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0093 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(131);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0094 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(132);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0095 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(133);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0096 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(134);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0097 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(135);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0098 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(136);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0099 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(137);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0100 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(138);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0101 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(139);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0102 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(140);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0103 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(141);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0104 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(142);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0105 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(143);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0106 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(144);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0107 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(145);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0108 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(146);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0109 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(147);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0110 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(148);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0111 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(149);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0112 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(150);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0113 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(151);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0114 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(152);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0115 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(153);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0116 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(154);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0117 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(155);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0118 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(156);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0119 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(157);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blocka0120 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(158);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0000 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(159);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0001 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(160);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0002 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(161);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0003 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(162);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0004 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(163);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0005 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(164);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0006 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(165);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0007 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(166);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0008 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(167);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0009 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(168);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0010 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(169);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0011 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(170);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0012 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(171);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0013 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(172);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0014 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(173);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0015 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(174);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0016 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(175);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0018 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(176);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0019 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(177);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0020 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(178);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0021 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(179);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0022 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(180);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0023 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(181);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0024 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(182);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0025 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(183);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0026 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(184);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0027 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(185);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0028 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(186);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0029 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(187);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0030 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(188);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0031 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(189);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0032 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(190);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0033 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(191);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0034 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(192);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0035 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(193);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0037 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(194);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0038 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(195);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0039 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(196);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0040 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(197);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0041 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(198);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0042 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(199);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0043 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(200);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0044 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(201);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0045 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(202);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0047 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(203);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0048 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(204);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0049 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(205);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0050 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(206);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0051 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(207);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0052 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(208);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0053 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(209);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0054 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(210);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockafall0055 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(211);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockaland0000 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(212);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockaland0001 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(213);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockaland0002 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(214);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockaland0003 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(215);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockaland0004 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(216);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockaland0005 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(217);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockaland0006 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(218);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockaland0007 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(219);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockaland0008 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(220);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockaland0009 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(221);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockaland0010 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(222);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockaland0011 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(223);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockaland0012 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(224);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockalandshadow0000 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(225);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockalandshadow0001 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(226);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockalandshadow0002 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(227);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockalandshadow0003 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(228);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockalandshadow0004 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(229);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockalandshadow0005 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(230);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockalandshadow0006 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(231);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockalandshadow0007 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(232);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockalandshadow0008 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(233);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockalandshadow0009 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(234);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockalandshadow0010 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(235);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockalandshadow0011 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(236);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockalandshadow0012 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(237);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0000 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(238);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0001 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(239);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0002 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(240);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0003 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(241);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0004 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(242);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0005 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(243);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0006 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(244);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0007 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(245);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0008 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(246);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0009 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(247);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0010 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(248);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0011 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(249);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0012 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(250);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0013 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(251);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0014 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(252);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0015 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(253);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0016 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(254);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0017 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(255);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0018 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(256);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0019 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(257);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0020 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(258);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0021 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(259);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0022 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(260);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0023 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(261);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0024 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(262);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0025 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(263);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0026 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(264);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0027 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(265);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0028 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(266);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0029 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(267);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0030 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(268);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0031 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(269);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0032 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(270);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0033 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(271);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0034 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(272);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0035 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(273);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0036 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(274);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0037 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(275);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0038 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(276);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0039 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(277);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0040 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(278);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0041 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(279);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0042 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(280);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0043 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(281);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0044 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(282);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0045 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(283);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0046 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(284);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0047 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(285);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0048 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(286);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0049 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(287);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0050 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(288);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0051 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(289);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0052 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(290);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0053 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(291);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0054 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(292);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0055 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(293);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0056 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(294);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0057 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(295);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0058 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(296);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0059 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(297);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0060 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(298);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0061 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(299);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0062 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(300);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0063 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(301);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0064 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(302);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0065 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(303);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0066 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(304);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0067 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(305);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0068 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(306);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0069 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(307);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0070 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(308);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0071 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(309);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0072 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(310);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0073 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(311);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0074 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(312);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0075 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(313);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0076 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(314);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0077 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(315);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0078 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(316);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0079 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(317);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0080 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(318);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0081 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(319);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0082 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(320);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0083 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(321);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0084 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(322);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0085 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(323);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0086 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(324);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0087 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(325);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0088 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(326);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0089 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(327);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0090 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(328);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0091 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(329);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0092 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(330);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0093 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(331);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0094 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(332);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0095 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(333);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0096 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(334);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0097 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(335);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0098 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(336);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0099 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(337);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0100 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(338);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0101 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(339);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0102 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(340);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0103 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(341);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0104 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(342);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0105 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(343);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0106 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(344);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0107 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(345);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0108 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(346);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0109 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(347);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0110 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(348);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0111 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(349);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0112 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(350);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0113 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(351);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0114 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(352);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0115 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(353);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0116 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(354);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0117 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(355);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0118 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(356);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0119 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(357);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashadow0120 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(358);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashrink0000 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(359);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashrink0001 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(360);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashrink0002 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(361);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashrink0003 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(362);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashrink0004 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(363);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashrink0005 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(364);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashrink0006 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(365);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockashrink0007 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(366);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0000 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(367);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0001 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(368);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0002 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(369);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0003 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(370);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0004 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(371);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0005 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(372);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0006 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(373);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0007 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(374);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0008 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(375);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0009 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(376);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0010 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(377);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0011 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(378);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0012 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(379);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0013 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(380);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0014 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(381);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0015 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(382);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0016 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(383);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0017 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(384);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0018 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(385);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0019 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(386);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0020 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(387);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0021 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(388);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0022 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(389);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0023 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(390);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0024 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(391);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0025 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(392);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0026 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(393);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0027 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(394);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0028 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(395);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0029 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(396);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0030 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(397);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0031 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(398);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0032 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(399);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0033 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(400);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0034 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(401);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0035 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(402);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0036 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(403);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0037 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(404);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0038 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(405);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmall0039 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(406);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallfall0000 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(407);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallfall0001 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(408);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallfall0002 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(409);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallfall0003 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(410);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallfall0004 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(411);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallfall0005 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(412);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallfall0006 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(413);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallfall0007 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(414);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallfall0008 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(415);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallfall0010 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(416);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallfall0011 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(417);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallfall0012 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(418);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallfall0013 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(419);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallfall0014 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(420);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallfall0015 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(421);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallfall0016 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(422);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallfall0017 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(423);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallfall0018 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(424);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallfall0019 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(425);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0000 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(426);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0001 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(427);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0002 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(428);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0003 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(429);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0004 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(430);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0005 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(431);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0006 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(432);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0007 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(433);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0008 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(434);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0009 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(435);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0010 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(436);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0011 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(437);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0012 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(438);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0013 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(439);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0014 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(440);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0015 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(441);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0016 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(442);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0017 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(443);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0018 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(444);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0019 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(445);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0020 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(446);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0021 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(447);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0022 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(448);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0023 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(449);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0024 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(450);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0025 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(451);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0026 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(452);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0027 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(453);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0028 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(454);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0029 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(455);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0030 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(456);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0031 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(457);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0032 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(458);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0033 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(459);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0034 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(460);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0035 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(461);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0036 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(462);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0037 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(463);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0038 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(464);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blockasmallshadow0039 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(465);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blox_b = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(466);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blox_bl = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(467);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blox_blo = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(468);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blox_bloxo = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(469);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.blox_bloxor = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(470);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bloxorz = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(471);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bolckadoor0000 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(472);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bolckadoor0001 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(473);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bolckadoor0002 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(474);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bolckadoor0003 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(475);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bolckadoor0004 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(476);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bolckadoor0005 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(477);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bolckadoor0006 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(478);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bolckadoor0007 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(479);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bolckadoorr0000 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(480);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bolckadoorr0001 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(481);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bolckadoorr0002 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(482);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bolckadoorr0003 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(483);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bolckadoorr0004 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(484);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bolckadoorr0005 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(485);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bolckadoorr0006 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(486);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.bolckadoorr0007 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(487);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.congra = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(488);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.CoolmathGames800x480 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(489);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.dot = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(490);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.enteryourpasscode = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(491);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.hardswitch_v3 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(492);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.instrucpict1 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(493);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.instrucpict2 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(494);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.instrucpict3 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(495);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.instrucpict4 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(496);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.instrucpict5 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(497);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.instrucpict6 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(498);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.instrucpict7 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(499);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.instrucpict8 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(500);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.instrucpict9 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(501);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.instruct0 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(502);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.instruct1 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(503);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.instruct2 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(504);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.instruct3 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(505);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.instruct4 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(506);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.instruct5 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(507);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.instruct6 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(508);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.instruct7 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(509);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.instruct999999 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(510);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.menuw = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(511);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.metal_v2 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(512);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.metal_v3 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(513);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.numbers = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(514);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.optios = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(515);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.optios2 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(516);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.passcodecorrect = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(517);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.passcodeincorrect = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(518);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.password = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(519);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.rotateinstruct = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(520);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.selecta = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(521);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.softswitch_v3 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(522);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.splitswitch_v2 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(523);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib._stage = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(524);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib._stage_1 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(525);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.stone2_v2 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(526);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.stone3_v2 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(527);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.stoneexit_v2 = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(528);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.timespent = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(529);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.toto = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(530);
     }).prototype = p = new cjs.Sprite();
-
-
-
     (lib.wina = function() {
         this.spriteSheet = ss["bloxorz_atlas_"];
         this.gotoAndStop(531);
@@ -4285,8 +2689,6 @@
         prototype.frameBounds = frameBounds;
         return prototype;
     }
-
-
     (lib.Tween171 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4303,8 +2705,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 133, 22);
-
-
     (lib.Tween170 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4321,8 +2721,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 133, 22);
-
-
     (lib.Tween167 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4339,8 +2737,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 170, 22);
-
-
     (lib.Tween166 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4357,8 +2753,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 133, 22);
-
-
     (lib.Tween165 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4375,8 +2769,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 133, 22);
-
-
     (lib.Tween164 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4393,8 +2785,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 133, 22);
-
-
     (lib.Tween163 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4411,8 +2801,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 133, 22);
-
-
     (lib.Tween162 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4429,8 +2817,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 133, 22);
-
-
     (lib.Tween35 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4475,8 +2861,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-87, -85, 174, 170);
-
-
     (lib.Tween34 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4560,8 +2944,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-188.5, -52.6, 377, 167.1);
-
-
     (lib.Tween24 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4574,8 +2956,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-52, -13, 178, 21);
-
-
     (lib.Tween23copy = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4588,8 +2968,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-196, -21, 200, 22);
-
-
     (lib.Tween22 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4602,8 +2980,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-76, -8, 178, 21);
-
-
     (lib.Tween19 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4620,8 +2996,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-287.4, -151.2, 574.8, 310.6);
-
-
     (lib.Tween9 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4710,8 +3084,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-274.9, -15.2, 549, 30.5);
-
-
     (lib.Tween2 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4728,8 +3100,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-279.5, -163, 564.4, 320.4);
-
-
     (lib.an_TextInput = function(options) {
         this._element = new $.an.TextInput(options);
         this._el = this._element.create();
@@ -4744,9 +3114,6 @@
     p._tick = _tick;
     p._handleDrawEnd = _handleDrawEnd;
     p._updateVisibility = _updateVisibility;
-
-
-
     (lib.Tween3123443 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4759,8 +3126,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-25, -16, 49, 33);
-
-
     (lib.Tween3131 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4773,8 +3138,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-25, -17, 52, 36);
-
-
     (lib.Tween11green = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4786,8 +3149,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-21.2, -10.9, 42.4, 21.8);
-
-
     (lib.Tween11 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4799,8 +3160,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-21.2, -10.9, 42.4, 21.8);
-
-
     (lib.Tween4 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4813,8 +3172,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-25, -14.5, 49, 33);
-
-
     (lib.Tween3 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4827,8 +3184,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-25, -16, 49, 33);
-
-
     (lib.Tween1 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4841,8 +3196,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-25, -16, 49, 33);
-
-
     (lib.Tween23copy2 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4855,8 +3208,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-196, -21, 200, 22);
-
-
     (lib.RotateInstruct = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4875,8 +3226,6 @@
         this.timeline.addTween(cjs.Tween.get(this.shape).wait(1));
 
     }).prototype = getMCSymbolPrototype(lib.RotateInstruct, new cjs.Rectangle(-16.8, -16.8, 588, 340.8), null);
-
-
     (lib.resumestrip = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4888,8 +3237,6 @@
         this.timeline.addTween(cjs.Tween.get(this.shape).wait(1));
 
     }).prototype = getMCSymbolPrototype(lib.resumestrip, new cjs.Rectangle(-551.8, -9, 601.6, 18), null);
-
-
     (lib.onscrenarrowcopy = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4929,8 +3276,6 @@
         this.timeline.addTween(cjs.Tween.get({}).to({ state: [{ t: this.shape_7 }, { t: this.shape_6 }, { t: this.shape_5 }, { t: this.shape_4 }, { t: this.shape_3 }, { t: this.shape_2 }, { t: this.shape_1 }, { t: this.shape }] }).wait(1));
 
     }).prototype = getMCSymbolPrototype(lib.onscrenarrowcopy, new cjs.Rectangle(-75.6, -86, 102.1, 69.2), null);
-
-
     (lib.onscrenarrow = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4946,8 +3291,6 @@
         this.timeline.addTween(cjs.Tween.get({}).to({ state: [{ t: this.shape_1 }, { t: this.shape }] }).wait(1));
 
     }).prototype = getMCSymbolPrototype(lib.onscrenarrow, new cjs.Rectangle(-34.3, -86, 68.6, 82.5), null);
-
-
     (lib.Tween169 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4960,8 +3303,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 50, 23);
-
-
     (lib.Tween168 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4974,8 +3315,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 50, 23);
-
-
     (lib.Tween30 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -4988,8 +3327,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-180, -46, 360, 100);
-
-
     (lib.Tween25 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -5001,8 +3338,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-162.1, -26, 324.3, 52.1);
-
-
     (lib.Tween23 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -5015,8 +3350,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-196, -21, 450, 42);
-
-
     (lib.Tween21 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -5028,8 +3361,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-289.4, -154, 579, 308);
-
-
     (lib.Tween18 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -5042,8 +3373,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-275, -150, 550, 300);
-
-
     (lib.Tween16 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -5060,8 +3389,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 133, 22);
-
-
     (lib.Tween15 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -5078,8 +3405,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 133, 22);
-
-
     (lib.Tween14copy = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -5096,8 +3421,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 133, 22);
-
-
     (lib.Tween14 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -5114,8 +3437,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 133, 22);
-
-
     (lib.stage11 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -5126,8 +3447,6 @@
         this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
     }).prototype = getMCSymbolPrototype(lib.stage11, new cjs.Rectangle(0, 0, 225, 42), null);
-
-
     (lib.spinna = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, { loopa: 50 });
 
@@ -5288,8 +3607,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(124, -108, 200, 150);
-
-
     (lib.coolmath = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -5366,8 +3683,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-59.5, -8.7, 119, 17.4);
-
-
     (lib.bloxorztitle2congra = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -5379,8 +3694,6 @@
         this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
     }).prototype = getMCSymbolPrototype(lib.bloxorztitle2congra, new cjs.Rectangle(-112, 0, 500, 42), null);
-
-
     (lib.bloxorztitle2 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -5391,8 +3704,6 @@
         this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
     }).prototype = getMCSymbolPrototype(lib.bloxorztitle2, new cjs.Rectangle(0, 0, 225, 42), null);
-
-
     (lib.blip_1 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -5405,8 +3716,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(0, -11, 18, 22);
-
-
     (lib.Tween31 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -5419,8 +3728,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-514.8, -23.2, 563, 316.3);
-
-
     (lib.HelpTextTouch = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -5777,8 +4084,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(57.5, 265.7, 309, 23.3);
-
-
     (lib.HelpText = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -6115,8 +4420,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(80.2, 265.7, 393.5, 23.3);
-
-
     (lib.EndSound = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, { lose: 1, win: 3 });
 
@@ -6146,8 +4449,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-21.7, -12, 37.1, 22.3);
-
-
     (lib.an_CSS = function(options) {
         this._element = new $.an.CSS(options);
         this._el = this._element.create();
@@ -6162,8 +4463,6 @@
     p._tick = _tick;
     p._handleDrawEnd = _handleDrawEnd;
     p._updateVisibility = _updateVisibility;
-
-
 
     (lib.ClonkSound = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, { clonk0: 2, clonk1: 4, clonk2: 6, clonk3: 8, clonk4: 10, clonk5: 12, half0: 20, half1: 22, half2: 24, half3: 26, half4: 28, half5: 30, metal0: 36, metal1: 38, metal2: 40, halfmetal0: 46, halfmetal1: 48, halfmetal2: 50, hollow0: 56, hollow1: 58, hollow2: 60, smallswitch: 67, bigswitch: 80 });
@@ -6323,8 +4622,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-5.7, -5.7, 13.5, 13.5);
-
-
     (lib.Tween32 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -6337,8 +4634,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-100, -75, 200, 150);
-
-
     (lib.Tween13 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -6351,8 +4646,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-100, -75, 200, 150);
-
-
     (lib.Tween12 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -6365,8 +4658,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-100, -75, 200, 150);
-
-
     (lib.Tween8 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -6379,8 +4670,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-100, -75, 200, 150);
-
-
     (lib.Tween7 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -6393,8 +4682,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-88, -72, 200, 150);
-
-
     (lib.Tween6 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -6407,8 +4694,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-100, -75, 200, 150);
-
-
     (lib.Tween5 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -6421,8 +4706,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-100, -75, 200, 150);
-
-
     (lib.tododahcopy = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -6434,8 +4717,6 @@
         this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
     }).prototype = getMCSymbolPrototype(lib.tododahcopy, new cjs.Rectangle(-99, -74, 200, 150), null);
-
-
     (lib.tododah = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -6447,8 +4728,6 @@
         this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
     }).prototype = getMCSymbolPrototype(lib.tododah, new cjs.Rectangle(-100, -75, 200, 150), null);
-
-
     (lib.selectabracket = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -6460,8 +4739,6 @@
         this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
     }).prototype = getMCSymbolPrototype(lib.selectabracket, new cjs.Rectangle(-12.5, -25.5, 25, 51), null);
-
-
     (lib.JoinSound = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, { tick: 1, join: 3 });
 
@@ -6496,8 +4773,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-7.7, -7.7, 15.5, 15.5);
-
-
     (lib.Tween20copy = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -6522,8 +4797,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-63, -63, 126.1, 126.1);
-
-
     (lib.Tween20 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -6553,8 +4826,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-150, -63, 213.1, 126.3);
-
-
     (lib.flasher = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, { red: 1, green: 21 });
 
@@ -6586,8 +4857,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = null;
-
-
     (lib.Tile = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, { normalblock: 1, doorblockl: 29, softswitch: 47, hardswitch: 70, endblock: 93, doorblockr: 119, splitswitch: 137, fallblock: 160 });
 
@@ -6984,8 +5253,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-14.5, -24.5, 49, 33);
-
-
     (lib.splash = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -7031,8 +5298,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-283.5, -163, 574.8, 353.6);
-
-
     (lib.passcoderesult = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, { nope: 5 });
 
@@ -7057,8 +5322,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = null;
-
-
     (lib.OnScreenArrows = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, { s: 0, ss: 22 });
 
@@ -7211,8 +5474,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(402.7, 150, 126.1, 126.1);
-
-
     (lib.numberdisplaysmall = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -7245,8 +5506,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(1, -21, 13, 22);
-
-
     (lib.numberdisplay = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -7282,8 +5541,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(1, -21, 35.5, 42);
-
-
     (lib.Tween43 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -7317,8 +5574,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(19, -17.7, 119, 17.4);
-
-
     (lib.numberdisplaysmallblack = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -7351,8 +5606,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(1, -21, 13, 22);
-
-
     (lib.coverforstage11 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -7375,8 +5628,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-162.1, -26, 324.3, 52.1);
-
-
     (lib.bloxorztitlecongra = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -7389,8 +5640,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-226.5, -23, 510, 54);
-
-
     (lib.bloxorztitle = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -7403,8 +5652,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-114.5, -23, 235, 54);
-
-
     (lib.bbsfwesfef = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -7416,8 +5663,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 133, 22);
-
-
     (lib.bbbbbutton11 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -7432,8 +5677,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 50, 23);
-
-
     (lib.bbbbbutton3 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -7445,8 +5688,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 133, 22);
-
-
     (lib.bbbbbutton2 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -7458,8 +5699,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 133, 22);
-
-
     (lib.bbbbbutton1copy = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -7471,8 +5710,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 133, 22);
-
-
     (lib.bbbbbutton1 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -7484,8 +5721,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 133, 22);
-
-
     (lib.Tween17 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -7499,8 +5734,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-275, -150, 550, 300);
-
-
     (lib.stagesign = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -7522,8 +5755,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-114.5, -23, 235, 54);
-
-
     (lib.BlockSmallShadow = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, { up: 0, rollupleft: 1, rollupup: 11, rollupright: 21, rollupdown: 31, fallupleft: 41, fallupup: 51, fallupright: 61, fallupdown: 71, spawn: 82, spawn2: 96, phase: 104 });
 
@@ -7699,8 +5930,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-90, -115, 200, 150);
-
-
     (lib.BlockShadow = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, { "up": 0, "rollupleft": 1, "rollupup": 11, "rollupright": 21, "rollupdown": 31, far: 40, rollfarleft: 41, rollfarup: 51, rollfarright: 61, rollfardown: 71, "long": 80, rolllongleft: 81, rolllongup: 91, rolllongright: 101, rolllongdown: 111, "fallupup": 121, "fallupleft": 131, "fallupdown": 140, "fallupright": 150, fallfarup: 159, fallfarright: 169, fallfardown: 179, fallfarleft: 189, falllongleft: 199, falllongdown: 209, falllongright: 219, falllongup: 229, land: 239, end: 258, split: 269, longjoin: 289, farjoin: 309, fallsquare: 319 });
 
@@ -8254,8 +6483,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-91, -115, 200, 150);
-
-
     (lib.selecta_1 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, { select: 1 });
 
@@ -8288,8 +6515,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-78.5, -49.5, 184, 51);
-
-
     (lib.Block = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, { "up": 0, "rollupleft": 1, "rollupup": 11, "rollupright": 21, "rollupdown": 31, "far": 40, "rollfarleft": 41, "rollfarup": 51, "rollfarright": 61, "rollfardown": 71, "long": 80, "rolllongleft": 81, "rolllongup": 91, "rolllongright": 101, "rolllongdown": 111, "fallupup": 121, "fallupleft": 131, "fallupdown": 140, "fallupright": 150, "fallfarup": 159, "fallfarright": 169, "fallfardown": 179, "fallfarleft": 189, "falllongleft": 199, "falllongdown": 209, "falllongright": 219, "falllongup": 229, "land": 239, "end": 258, "split": 271, "longjoin": 289, "farjoin": 309, "fallsquare": 319 });
 
@@ -9255,14 +7480,283 @@
         this.instance_196.setTransform(9, -40);
         this.instance_196._off = true;
 
-        this.timeline.addTween(cjs.Tween.get({}).to({ state: [{ t: this.instance_1 }] }).to({ state: [{ t: this.instance_2 }] }, 1).to({ state: [{ t: this.instance_3 }] }, 1).to({ state: [{ t: this.instance_4 }] }, 1).to({ state: [{ t: this.instance_5 }] }, 1).to({ state: [{ t: this.instance_6 }] }, 1).to({ state: [{ t: this.instance_7 }] }, 1).to({ state: [{ t: this.instance_8 }] }, 1).to({ state: [{ t: this.instance_9 }] }, 1).to({ state: [{ t: this.instance_10 }] }, 1).to({ state: [{ t: this.instance_11 }] }, 1).to({ state: [{ t: this.instance_12 }] }, 1).to({ state: [{ t: this.instance_13 }] }, 1).to({ state: [{ t: this.instance_14 }] }, 1).to({ state: [{ t: this.instance_15 }] }, 1).to({ state: [{ t: this.instance_16 }] }, 1).to({ state: [{ t: this.instance_17 }] }, 1).to({ state: [{ t: this.instance_18 }] }, 1).to({ state: [{ t: this.instance_19 }] }, 1).to({ state: [{ t: this.instance_20 }] }, 1).to({ state: [{ t: this.instance_21 }] }, 1).to({ state: [{ t: this.instance_22 }] }, 1).to({ state: [{ t: this.instance_23 }] }, 1).to({ state: [{ t: this.instance_24 }] }, 1).to({ state: [{ t: this.instance_25 }] }, 1).to({ state: [{ t: this.instance_26 }] }, 1).to({ state: [{ t: this.instance_27 }] }, 1).to({ state: [{ t: this.instance_28 }] }, 1).to({ state: [{ t: this.instance_29 }] }, 1).to({ state: [{ t: this.instance_30 }] }, 1).to({ state: [{ t: this.instance_31 }] }, 1).to({ state: [{ t: this.instance_32 }] }, 1).to({ state: [{ t: this.instance_33 }] }, 1).to({ state: [{ t: this.instance_34 }] }, 1).to({ state: [{ t: this.instance_35 }] }, 1).to({ state: [{ t: this.instance_36 }] }, 1).to({ state: [{ t: this.instance_37 }] }, 1).to({ state: [{ t: this.instance_38 }] }, 1).to({ state: [{ t: this.instance_39 }] }, 1).to({ state: [{ t: this.instance_40 }] }, 1).to({ state: [{ t: this.instance_41 }] }, 1).to({ state: [{ t: this.instance_42 }] }, 1).to({ state: [{ t: this.instance_43 }] }, 1).to({ state: [{ t: this.instance_44 }] }, 1).to({ state: [{ t: this.instance_45 }] }, 1).to({ state: [{ t: this.instance_46 }] }, 1).to({ state: [{ t: this.instance_47 }] }, 1).to({ state: [{ t: this.instance_48 }] }, 1).to({ state: [{ t: this.instance_49 }] }, 1).to({ state: [{ t: this.instance_50 }] }, 1).to({ state: [{ t: this.instance_51 }] }, 1).to({ state: [{ t: this.instance_52 }] }, 1).to({ state: [{ t: this.instance_53 }] }, 1).to({ state: [{ t: this.instance_54 }] }, 1).to({ state: [{ t: this.instance_55 }] }, 1).to({ state: [{ t: this.instance_56 }] }, 1).to({ state: [{ t: this.instance_57 }] }, 1).to({ state: [{ t: this.instance_58 }] }, 1).to({ state: [{ t: this.instance_59 }] }, 1).to({ state: [{ t: this.instance_60 }] }, 1).to({ state: [{ t: this.instance_61 }] }, 1).to({ state: [{ t: this.instance_62 }] }, 1).to({ state: [{ t: this.instance_63 }] }, 1).to({ state: [{ t: this.instance_64 }] }, 1).to({ state: [{ t: this.instance_65 }] }, 1).to({ state: [{ t: this.instance_66 }] }, 1).to({ state: [{ t: this.instance_67 }] }, 1).to({ state: [{ t: this.instance_68 }] }, 1).to({ state: [{ t: this.instance_69 }] }, 1).to({ state: [{ t: this.instance_70 }] }, 1).to({ state: [{ t: this.instance_71 }] }, 1).to({ state: [{ t: this.instance_72 }] }, 1).to({ state: [{ t: this.instance_73 }] }, 1).to({ state: [{ t: this.instance_74 }] }, 1).to({ state: [{ t: this.instance_75 }] }, 1).to({ state: [{ t: this.instance_76 }] }, 1).to({ state: [{ t: this.instance_77 }] }, 1).to({ state: [{ t: this.instance_78 }] }, 1).to({ state: [{ t: this.instance_79 }] }, 1).to({ state: [{ t: this.instance_80 }] }, 1).to({ state: [{ t: this.instance_81 }] }, 1).to({ state: [{ t: this.instance_82 }] }, 1).to({ state: [{ t: this.instance_83 }] }, 1).to({ state: [{ t: this.instance_84 }] }, 1).to({ state: [{ t: this.instance_85 }] }, 1).to({ state: [{ t: this.instance_86 }] }, 1).to({ state: [{ t: this.instance_87 }] }, 1).to({ state: [{ t: this.instance_88 }] }, 1).to({ state: [{ t: this.instance_89 }] }, 1).to({ state: [{ t: this.instance_90 }] }, 1).to({ state: [{ t: this.instance_91 }] }, 1).to({ state: [{ t: this.instance_92 }] }, 1).to({ state: [{ t: this.instance_93 }] }, 1).to({ state: [{ t: this.instance_94 }] }, 1).to({ state: [{ t: this.instance_95 }] }, 1).to({ state: [{ t: this.instance_96 }] }, 1).to({ state: [{ t: this.instance_97 }] }, 1).to({ state: [{ t: this.instance_98 }] }, 1).to({ state: [{ t: this.instance_99 }] }, 1).to({ state: [{ t: this.instance_100 }] }, 1).to({ state: [{ t: this.instance_101 }] }, 1).to({ state: [{ t: this.instance_102 }] }, 1).to({ state: [{ t: this.instance_103 }] }, 1).to({ state: [{ t: this.instance_104 }] }, 1).to({ state: [{ t: this.instance_105 }] }, 1).to({ state: [{ t: this.instance_106 }] }, 1).to({ state: [{ t: this.instance_107 }] }, 1).to({ state: [{ t: this.instance_108 }] }, 1).to({ state: [{ t: this.instance_109 }] }, 1).to({ state: [{ t: this.instance_110 }] }, 1).to({ state: [{ t: this.instance_111 }] }, 1).to({ state: [{ t: this.instance_112 }] }, 1).to({ state: [{ t: this.instance_113 }] }, 1).to({ state: [{ t: this.instance_114 }] }, 1).to({ state: [{ t: this.instance_115 }] }, 1).to({ state: [{ t: this.instance_116 }] }, 1).to({ state: [{ t: this.instance_117 }] }, 1).to({ state: [{ t: this.instance_118 }] }, 1).to({ state: [{ t: this.instance_119 }] }, 1).to({ state: [{ t: this.instance_120 }] }, 1).to({ state: [{ t: this.instance_121 }] }, 1).to({ state: [{ t: this.instance_122 }] }, 1).to({ state: [{ t: this.instance_123 }] }, 1).to({ state: [{ t: this.instance_124 }] }, 1).to({ state: [{ t: this.instance_125 }] }, 1).to({ state: [{ t: this.instance_126 }] }, 1).to({ state: [{ t: this.instance_127 }] }, 1).to({ state: [{ t: this.instance_128 }] }, 1).to({ state: [{ t: this.instance_129 }] }, 1).to({ state: [{ t: this.instance_130 }] }, 1).to({ state: [] }, 1).to({ state: [{ t: this.instance_131 }] }, 1).to({ state: [{ t: this.instance_132 }] }, 1).to({ state: [{ t: this.instance_133 }] }, 1).to({ state: [{ t: this.instance_134 }] }, 1).to({ state: [{ t: this.instance_135 }] }, 1).to({ state: [{ t: this.instance_136 }] }, 1).to({ state: [{ t: this.instance_137 }] }, 1).to({ state: [{ t: this.instance_138 }] }, 1).to({ state: [] }, 1).to({ state: [{ t: this.instance_122 }] }, 1).to({ state: [{ t: this.instance_130 }] }, 1).to({ state: [{ t: this.instance_129 }] }, 1).to({ state: [{ t: this.instance_128 }] }, 1).to({ state: [{ t: this.instance_127 }] }, 1).to({ state: [{ t: this.instance_126 }] }, 1).to({ state: [{ t: this.instance_125 }] }, 1).to({ state: [{ t: this.instance_124 }] }, 1).to({ state: [{ t: this.instance_123 }] }, 1).to({ state: [] }, 1).to({ state: [{ t: this.instance_131 }] }, 1).to({ state: [{ t: this.instance_138 }] }, 1).to({ state: [{ t: this.instance_137 }] }, 1).to({ state: [{ t: this.instance_136 }] }, 1).to({ state: [{ t: this.instance_135 }] }, 1).to({ state: [{ t: this.instance_134 }] }, 1).to({ state: [{ t: this.instance_133 }] }, 1).to({ state: [{ t: this.instance_132 }] }, 1).to({ state: [] }, 1).to({ state: [{ t: this.instance_139 }] }, 1).to({ state: [{ t: this.instance_140 }] }, 1).to({ state: [{ t: this.instance_141 }] }, 1).to({ state: [{ t: this.instance_142 }] }, 1).to({ state: [{ t: this.instance_143 }] }, 1).to({ state: [{ t: this.instance_144 }] }, 1).to({ state: [{ t: this.instance_145 }] }, 1).to({ state: [{ t: this.instance_146 }] }, 1).to({ state: [{ t: this.instance_147 }] }, 1).to({ state: [] }, 1).to({ state: [{ t: this.instance_148 }] }, 1).to({ state: [{ t: this.instance_149 }] }, 1).to({ state: [{ t: this.instance_150 }] }, 1).to({ state: [{ t: this.instance_151 }] }, 1).to({ state: [{ t: this.instance_152 }] }, 1).to({ state: [{ t: this.instance_153 }] }, 1).to({ state: [{ t: this.instance_154 }] }, 1).to({ state: [{ t: this.instance_155 }] }, 1).to({ state: [{ t: this.instance_156 }] }, 1).to({ state: [] }, 1).to({ state: [{ t: this.instance_139 }] }, 1).to({ state: [{ t: this.instance_147 }] }, 1).to({ state: [{ t: this.instance_146 }] }, 1).to({ state: [{ t: this.instance_145 }] }, 1).to({ state: [{ t: this.instance_144 }] }, 1).to({ state: [{ t: this.instance_143 }] }, 1).to({ state: [{ t: this.instance_142 }] }, 1).to({ state: [{ t: this.instance_141 }] }, 1).to({ state: [{ t: this.instance_140 }] }, 1).to({ state: [] }, 1).to({ state: [{ t: this.instance_148 }] }, 1).to({ state: [{ t: this.instance_156 }] }, 1).to({ state: [{ t: this.instance_155 }] }, 1).to({ state: [{ t: this.instance_154 }] }, 1).to({ state: [{ t: this.instance_153 }] }, 1).to({ state: [{ t: this.instance_152 }] }, 1).to({ state: [{ t: this.instance_151 }] }, 1).to({ state: [{ t: this.instance_150 }] }, 1).to({ state: [{ t: this.instance_149 }] }, 1).to({ state: [] }, 1).to({ state: [{ t: this.instance_157 }] }, 1).to({ state: [{ t: this.instance_158 }] }, 1).to({ state: [{ t: this.instance_159 }] }, 1).to({ state: [{ t: this.instance_160 }] }, 1).to({ state: [{ t: this.instance_161 }] }, 1).to({ state: [{ t: this.instance_162 }] }, 1).to({ state: [{ t: this.instance_163 }] }, 1).to({ state: [{ t: this.instance_164 }] }, 1).to({ state: [{ t: this.instance_165 }] }, 1).to({ state: [] }, 1).to({ state: [{ t: this.instance_166 }] }, 1).to({ state: [{ t: this.instance_167 }] }, 1).to({ state: [{ t: this.instance_168 }] }, 1).to({ state: [{ t: this.instance_169 }] }, 1).to({ state: [{ t: this.instance_170 }] }, 1).to({ state: [{ t: this.instance_171 }] }, 1).to({ state: [{ t: this.instance_172 }] }, 1).to({ state: [{ t: this.instance_173 }] }, 1).to({ state: [{ t: this.instance_174 }] }, 1).to({ state: [] }, 1).to({ state: [{ t: this.instance_157 }] }, 1).to({ state: [{ t: this.instance_165 }] }, 1).to({ state: [{ t: this.instance_164 }] }, 1).to({ state: [{ t: this.instance_163 }] }, 1).to({ state: [{ t: this.instance_162 }] }, 1).to({ state: [{ t: this.instance_161 }] }, 1).to({ state: [{ t: this.instance_160 }] }, 1).to({ state: [{ t: this.instance_159 }] }, 1).to({ state: [{ t: this.instance_158 }] }, 1).to({ state: [] }, 1).to({ state: [{ t: this.instance_166 }] }, 1).to({ state: [{ t: this.instance_174 }] }, 1).to({ state: [{ t: this.instance_173 }] }, 1).to({ state: [{ t: this.instance_172 }] }, 1).to({ state: [{ t: this.instance_171 }] }, 1).to({ state: [{ t: this.instance_170 }] }, 1).to({ state: [{ t: this.instance_169 }] }, 1).to({ state: [{ t: this.instance_168 }] }, 1).to({ state: [{ t: this.instance_167 }] }, 1).to({ state: [] }, 1).to({ state: [{ t: this.instance_175 }] }, 1).to({ state: [{ t: this.instance_175 }] }, 5).to({ state: [{ t: this.instance_176 }] }, 1).to({ state: [{ t: this.instance_177 }] }, 1).to({ state: [{ t: this.instance_178 }] }, 1).to({ state: [{ t: this.instance_179 }] }, 1).to({ state: [{ t: this.instance_180 }] }, 1).to({ state: [{ t: this.instance_181 }] }, 1).to({ state: [{ t: this.instance_182 }] }, 1).to({ state: [{ t: this.instance_183 }] }, 1).to({ state: [{ t: this.instance_184 }] }, 1).to({ state: [{ t: this.instance_185 }] }, 1).to({ state: [{ t: this.instance_186 }] }, 1).to({ state: [{ t: this.instance_187 }] }, 1).to({ state: [] }, 1).to({ state: [{ t: this.instance_188 }] }, 1).to({ state: [{ t: this.instance_189 }] }, 1).to({ state: [{ t: this.instance_190 }] }, 1).to({ state: [{ t: this.instance_191 }] }, 1).to({ state: [{ t: this.instance_192 }] }, 1).to({ state: [{ t: this.instance_193 }] }, 1).to({ state: [{ t: this.instance_194 }] }, 1).to({ state: [{ t: this.instance_195 }] }, 1).to({ state: [] }, 1).to({ state: [{ t: this.instance_81 }] }, 23).to({ state: [] }, 6).to({ state: [{ t: this.instance_41 }] }, 14).to({ state: [] }, 6).to({ state: [{ t: this.instance_196 }] }, 4).to({ state: [{ t: this.instance_196 }] }, 9).to({ state: [] }, 19).to({ state: [] }, 1).wait(14));
+        this.timeline.addTween(cjs.Tween.get({})
+            .to({ state: [{ t: this.instance_1 }] })
+            .to({ state: [{ t: this.instance_2 }] }, 1)
+            .to({ state: [{ t: this.instance_3 }] }, 1)
+            .to({ state: [{ t: this.instance_4 }] }, 1)
+            .to({ state: [{ t: this.instance_5 }] }, 1)
+            .to({ state: [{ t: this.instance_6 }] }, 1)
+            .to({ state: [{ t: this.instance_7 }] }, 1)
+            .to({ state: [{ t: this.instance_8 }] }, 1)
+            .to({ state: [{ t: this.instance_9 }] }, 1)
+            .to({ state: [{ t: this.instance_10 }] }, 1)
+            .to({ state: [{ t: this.instance_11 }] }, 1)
+            .to({ state: [{ t: this.instance_12 }] }, 1)
+            .to({ state: [{ t: this.instance_13 }] }, 1)
+            .to({ state: [{ t: this.instance_14 }] }, 1)
+            .to({ state: [{ t: this.instance_15 }] }, 1)
+            .to({ state: [{ t: this.instance_16 }] }, 1)
+            .to({ state: [{ t: this.instance_17 }] }, 1)
+            .to({ state: [{ t: this.instance_18 }] }, 1)
+            .to({ state: [{ t: this.instance_19 }] }, 1)
+            .to({ state: [{ t: this.instance_20 }] }, 1)
+            .to({ state: [{ t: this.instance_21 }] }, 1)
+            .to({ state: [{ t: this.instance_22 }] }, 1)
+            .to({ state: [{ t: this.instance_23 }] }, 1)
+            .to({ state: [{ t: this.instance_24 }] }, 1)
+            .to({ state: [{ t: this.instance_25 }] }, 1)
+            .to({ state: [{ t: this.instance_26 }] }, 1)
+            .to({ state: [{ t: this.instance_27 }] }, 1)
+            .to({ state: [{ t: this.instance_28 }] }, 1)
+            .to({ state: [{ t: this.instance_29 }] }, 1)
+            .to({ state: [{ t: this.instance_30 }] }, 1)
+            .to({ state: [{ t: this.instance_31 }] }, 1)
+            .to({ state: [{ t: this.instance_32 }] }, 1)
+            .to({ state: [{ t: this.instance_33 }] }, 1)
+            .to({ state: [{ t: this.instance_34 }] }, 1)
+            .to({ state: [{ t: this.instance_35 }] }, 1)
+            .to({ state: [{ t: this.instance_36 }] }, 1)
+            .to({ state: [{ t: this.instance_37 }] }, 1)
+            .to({ state: [{ t: this.instance_38 }] }, 1)
+            .to({ state: [{ t: this.instance_39 }] }, 1)
+            .to({ state: [{ t: this.instance_40 }] }, 1)
+            .to({ state: [{ t: this.instance_41 }] }, 1)
+            .to({ state: [{ t: this.instance_42 }] }, 1)
+            .to({ state: [{ t: this.instance_43 }] }, 1)
+            .to({ state: [{ t: this.instance_44 }] }, 1)
+            .to({ state: [{ t: this.instance_45 }] }, 1)
+            .to({ state: [{ t: this.instance_46 }] }, 1)
+            .to({ state: [{ t: this.instance_47 }] }, 1)
+            .to({ state: [{ t: this.instance_48 }] }, 1)
+            .to({ state: [{ t: this.instance_49 }] }, 1)
+            .to({ state: [{ t: this.instance_50 }] }, 1)
+            .to({ state: [{ t: this.instance_51 }] }, 1)
+            .to({ state: [{ t: this.instance_52 }] }, 1)
+            .to({ state: [{ t: this.instance_53 }] }, 1)
+            .to({ state: [{ t: this.instance_54 }] }, 1)
+            .to({ state: [{ t: this.instance_55 }] }, 1)
+            .to({ state: [{ t: this.instance_56 }] }, 1)
+            .to({ state: [{ t: this.instance_57 }] }, 1)
+            .to({ state: [{ t: this.instance_58 }] }, 1)
+            .to({ state: [{ t: this.instance_59 }] }, 1)
+            .to({ state: [{ t: this.instance_60 }] }, 1)
+            .to({ state: [{ t: this.instance_61 }] }, 1)
+            .to({ state: [{ t: this.instance_62 }] }, 1)
+            .to({ state: [{ t: this.instance_63 }] }, 1)
+            .to({ state: [{ t: this.instance_64 }] }, 1)
+            .to({ state: [{ t: this.instance_65 }] }, 1)
+            .to({ state: [{ t: this.instance_66 }] }, 1)
+            .to({ state: [{ t: this.instance_67 }] }, 1)
+            .to({ state: [{ t: this.instance_68 }] }, 1)
+            .to({ state: [{ t: this.instance_69 }] }, 1)
+            .to({ state: [{ t: this.instance_70 }] }, 1)
+            .to({ state: [{ t: this.instance_71 }] }, 1)
+            .to({ state: [{ t: this.instance_72 }] }, 1)
+            .to({ state: [{ t: this.instance_73 }] }, 1)
+            .to({ state: [{ t: this.instance_74 }] }, 1)
+            .to({ state: [{ t: this.instance_75 }] }, 1)
+            .to({ state: [{ t: this.instance_76 }] }, 1)
+            .to({ state: [{ t: this.instance_77 }] }, 1)
+            .to({ state: [{ t: this.instance_78 }] }, 1)
+            .to({ state: [{ t: this.instance_79 }] }, 1)
+            .to({ state: [{ t: this.instance_80 }] }, 1)
+            .to({ state: [{ t: this.instance_81 }] }, 1)
+            .to({ state: [{ t: this.instance_82 }] }, 1)
+            .to({ state: [{ t: this.instance_83 }] }, 1)
+            .to({ state: [{ t: this.instance_84 }] }, 1)
+            .to({ state: [{ t: this.instance_85 }] }, 1)
+            .to({ state: [{ t: this.instance_86 }] }, 1)
+            .to({ state: [{ t: this.instance_87 }] }, 1)
+            .to({ state: [{ t: this.instance_88 }] }, 1)
+            .to({ state: [{ t: this.instance_89 }] }, 1)
+            .to({ state: [{ t: this.instance_90 }] }, 1)
+            .to({ state: [{ t: this.instance_91 }] }, 1)
+            .to({ state: [{ t: this.instance_92 }] }, 1)
+            .to({ state: [{ t: this.instance_93 }] }, 1)
+            .to({ state: [{ t: this.instance_94 }] }, 1)
+            .to({ state: [{ t: this.instance_95 }] }, 1)
+            .to({ state: [{ t: this.instance_96 }] }, 1)
+            .to({ state: [{ t: this.instance_97 }] }, 1)
+            .to({ state: [{ t: this.instance_98 }] }, 1)
+            .to({ state: [{ t: this.instance_99 }] }, 1)
+            .to({ state: [{ t: this.instance_100 }] }, 1)
+            .to({ state: [{ t: this.instance_101 }] }, 1)
+            .to({ state: [{ t: this.instance_102 }] }, 1)
+            .to({ state: [{ t: this.instance_103 }] }, 1)
+            .to({ state: [{ t: this.instance_104 }] }, 1)
+            .to({ state: [{ t: this.instance_105 }] }, 1)
+            .to({ state: [{ t: this.instance_106 }] }, 1)
+            .to({ state: [{ t: this.instance_107 }] }, 1)
+            .to({ state: [{ t: this.instance_108 }] }, 1)
+            .to({ state: [{ t: this.instance_109 }] }, 1)
+            .to({ state: [{ t: this.instance_110 }] }, 1)
+            .to({ state: [{ t: this.instance_111 }] }, 1)
+            .to({ state: [{ t: this.instance_112 }] }, 1)
+            .to({ state: [{ t: this.instance_113 }] }, 1)
+            .to({ state: [{ t: this.instance_114 }] }, 1)
+            .to({ state: [{ t: this.instance_115 }] }, 1)
+            .to({ state: [{ t: this.instance_116 }] }, 1)
+            .to({ state: [{ t: this.instance_117 }] }, 1)
+            .to({ state: [{ t: this.instance_118 }] }, 1)
+            .to({ state: [{ t: this.instance_119 }] }, 1)
+            .to({ state: [{ t: this.instance_120 }] }, 1)
+            .to({ state: [{ t: this.instance_121 }] }, 1)
+            .to({ state: [{ t: this.instance_122 }] }, 1)
+            .to({ state: [{ t: this.instance_123 }] }, 1)
+            .to({ state: [{ t: this.instance_124 }] }, 1)
+            .to({ state: [{ t: this.instance_125 }] }, 1)
+            .to({ state: [{ t: this.instance_126 }] }, 1)
+            .to({ state: [{ t: this.instance_127 }] }, 1)
+            .to({ state: [{ t: this.instance_128 }] }, 1)
+            .to({ state: [{ t: this.instance_129 }] }, 1)
+            .to({ state: [{ t: this.instance_130 }] }, 1)
+            .to({ state: [] }, 1)
+            .to({ state: [{ t: this.instance_131 }] }, 1)
+            .to({ state: [{ t: this.instance_132 }] }, 1)
+            .to({ state: [{ t: this.instance_133 }] }, 1)
+            .to({ state: [{ t: this.instance_134 }] }, 1)
+            .to({ state: [{ t: this.instance_135 }] }, 1)
+            .to({ state: [{ t: this.instance_136 }] }, 1)
+            .to({ state: [{ t: this.instance_137 }] }, 1)
+            .to({ state: [{ t: this.instance_138 }] }, 1)
+            .to({ state: [] }, 1)
+            .to({ state: [{ t: this.instance_122 }] }, 1)
+            .to({ state: [{ t: this.instance_130 }] }, 1)
+            .to({ state: [{ t: this.instance_129 }] }, 1)
+            .to({ state: [{ t: this.instance_128 }] }, 1)
+            .to({ state: [{ t: this.instance_127 }] }, 1)
+            .to({ state: [{ t: this.instance_126 }] }, 1)
+            .to({ state: [{ t: this.instance_125 }] }, 1)
+            .to({ state: [{ t: this.instance_124 }] }, 1)
+            .to({ state: [{ t: this.instance_123 }] }, 1)
+            .to({ state: [] }, 1)
+            .to({ state: [{ t: this.instance_131 }] }, 1)
+            .to({ state: [{ t: this.instance_138 }] }, 1)
+            .to({ state: [{ t: this.instance_137 }] }, 1)
+            .to({ state: [{ t: this.instance_136 }] }, 1)
+            .to({ state: [{ t: this.instance_135 }] }, 1)
+            .to({ state: [{ t: this.instance_134 }] }, 1)
+            .to({ state: [{ t: this.instance_133 }] }, 1)
+            .to({ state: [{ t: this.instance_132 }] }, 1)
+            .to({ state: [] }, 1)
+            .to({ state: [{ t: this.instance_139 }] }, 1)
+            .to({ state: [{ t: this.instance_140 }] }, 1)
+            .to({ state: [{ t: this.instance_141 }] }, 1)
+            .to({ state: [{ t: this.instance_142 }] }, 1)
+            .to({ state: [{ t: this.instance_143 }] }, 1)
+            .to({ state: [{ t: this.instance_144 }] }, 1)
+            .to({ state: [{ t: this.instance_145 }] }, 1)
+            .to({ state: [{ t: this.instance_146 }] }, 1)
+            .to({ state: [{ t: this.instance_147 }] }, 1)
+            .to({ state: [] }, 1)
+            .to({ state: [{ t: this.instance_148 }] }, 1)
+            .to({ state: [{ t: this.instance_149 }] }, 1)
+            .to({ state: [{ t: this.instance_150 }] }, 1)
+            .to({ state: [{ t: this.instance_151 }] }, 1)
+            .to({ state: [{ t: this.instance_152 }] }, 1)
+            .to({ state: [{ t: this.instance_153 }] }, 1)
+            .to({ state: [{ t: this.instance_154 }] }, 1)
+            .to({ state: [{ t: this.instance_155 }] }, 1)
+            .to({ state: [{ t: this.instance_156 }] }, 1)
+            .to({ state: [] }, 1)
+            .to({ state: [{ t: this.instance_139 }] }, 1)
+            .to({ state: [{ t: this.instance_147 }] }, 1)
+            .to({ state: [{ t: this.instance_146 }] }, 1)
+            .to({ state: [{ t: this.instance_145 }] }, 1)
+            .to({ state: [{ t: this.instance_144 }] }, 1)
+            .to({ state: [{ t: this.instance_143 }] }, 1)
+            .to({ state: [{ t: this.instance_142 }] }, 1)
+            .to({ state: [{ t: this.instance_141 }] }, 1)
+            .to({ state: [{ t: this.instance_140 }] }, 1)
+            .to({ state: [] }, 1)
+            .to({ state: [{ t: this.instance_148 }] }, 1)
+            .to({ state: [{ t: this.instance_156 }] }, 1)
+            .to({ state: [{ t: this.instance_155 }] }, 1)
+            .to({ state: [{ t: this.instance_154 }] }, 1)
+            .to({ state: [{ t: this.instance_153 }] }, 1)
+            .to({ state: [{ t: this.instance_152 }] }, 1)
+            .to({ state: [{ t: this.instance_151 }] }, 1)
+            .to({ state: [{ t: this.instance_150 }] }, 1)
+            .to({ state: [{ t: this.instance_149 }] }, 1)
+            .to({ state: [] }, 1)
+            .to({ state: [{ t: this.instance_157 }] }, 1)
+            .to({ state: [{ t: this.instance_158 }] }, 1)
+            .to({ state: [{ t: this.instance_159 }] }, 1)
+            .to({ state: [{ t: this.instance_160 }] }, 1)
+            .to({ state: [{ t: this.instance_161 }] }, 1)
+            .to({ state: [{ t: this.instance_162 }] }, 1)
+            .to({ state: [{ t: this.instance_163 }] }, 1)
+            .to({ state: [{ t: this.instance_164 }] }, 1)
+            .to({ state: [{ t: this.instance_165 }] }, 1)
+            .to({ state: [] }, 1)
+            .to({ state: [{ t: this.instance_166 }] }, 1)
+            .to({ state: [{ t: this.instance_167 }] }, 1)
+            .to({ state: [{ t: this.instance_168 }] }, 1)
+            .to({ state: [{ t: this.instance_169 }] }, 1)
+            .to({ state: [{ t: this.instance_170 }] }, 1)
+            .to({ state: [{ t: this.instance_171 }] }, 1)
+            .to({ state: [{ t: this.instance_172 }] }, 1)
+            .to({ state: [{ t: this.instance_173 }] }, 1)
+            .to({ state: [{ t: this.instance_174 }] }, 1)
+            .to({ state: [] }, 1)
+            .to({ state: [{ t: this.instance_157 }] }, 1)
+            .to({ state: [{ t: this.instance_165 }] }, 1)
+            .to({ state: [{ t: this.instance_164 }] }, 1)
+            .to({ state: [{ t: this.instance_163 }] }, 1)
+            .to({ state: [{ t: this.instance_162 }] }, 1)
+            .to({ state: [{ t: this.instance_161 }] }, 1)
+            .to({ state: [{ t: this.instance_160 }] }, 1)
+            .to({ state: [{ t: this.instance_159 }] }, 1)
+            .to({ state: [{ t: this.instance_158 }] }, 1)
+            .to({ state: [] }, 1)
+            .to({ state: [{ t: this.instance_166 }] }, 1)
+            .to({ state: [{ t: this.instance_174 }] }, 1)
+            .to({ state: [{ t: this.instance_173 }] }, 1)
+            .to({ state: [{ t: this.instance_172 }] }, 1)
+            .to({ state: [{ t: this.instance_171 }] }, 1)
+            .to({ state: [{ t: this.instance_170 }] }, 1)
+            .to({ state: [{ t: this.instance_169 }] }, 1)
+            .to({ state: [{ t: this.instance_168 }] }, 1)
+            .to({ state: [{ t: this.instance_167 }] }, 1)
+            .to({ state: [] }, 1)
+            .to({ state: [{ t: this.instance_175 }] }, 1)
+            .to({ state: [{ t: this.instance_175 }] }, 5)
+            .to({ state: [{ t: this.instance_176 }] }, 1)
+            .to({ state: [{ t: this.instance_177 }] }, 1)
+            .to({ state: [{ t: this.instance_178 }] }, 1)
+            .to({ state: [{ t: this.instance_179 }] }, 1)
+            .to({ state: [{ t: this.instance_180 }] }, 1)
+            .to({ state: [{ t: this.instance_181 }] }, 1)
+            .to({ state: [{ t: this.instance_182 }] }, 1)
+            .to({ state: [{ t: this.instance_183 }] }, 1)
+            .to({ state: [{ t: this.instance_184 }] }, 1)
+            .to({ state: [{ t: this.instance_185 }] }, 1)
+            .to({ state: [{ t: this.instance_186 }] }, 1)
+            .to({ state: [{ t: this.instance_187 }] }, 1)
+            .to({ state: [] }, 1)
+            .to({ state: [{ t: this.instance_188 }] }, 1)
+            .to({ state: [{ t: this.instance_189 }] }, 1)
+            .to({ state: [{ t: this.instance_190 }] }, 1)
+            .to({ state: [{ t: this.instance_191 }] }, 1)
+            .to({ state: [{ t: this.instance_192 }] }, 1)
+            .to({ state: [{ t: this.instance_193 }] }, 1)
+            .to({ state: [{ t: this.instance_194 }] }, 1)
+            .to({ state: [{ t: this.instance_195 }] }, 1)
+            .to({ state: [] }, 1)
+            .to({ state: [{ t: this.instance_81 }] }, 23)
+            .to({ state: [] }, 6)
+            .to({ state: [{ t: this.instance_41 }] }, 14)
+            .to({ state: [] }, 6)
+            .to({ state: [{ t: this.instance_196 }] }, 4)
+            .to({ state: [{ t: this.instance_196 }] }, 9)
+            .to({ state: [] }, 19).to({ state: [] }, 1)
+            .wait(14));
         this.timeline.addTween(cjs.Tween.get(this.instance_175).wait(239).to({ _off: false }, 0).to({ y: -40 }, 5).to({ _off: true }, 1).wait(117));
         this.timeline.addTween(cjs.Tween.get(this.instance_196).wait(319).to({ _off: false }, 0).to({ rotation: 45 }, 9).to({ _off: true }, 19).wait(15));
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-91, -115, 200, 150);
-
-
     (lib.bbbbbutton13 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -9274,8 +7768,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 133, 22);
-
-
     (lib.bbbbbutton12 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -9287,8 +7779,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 133, 22);
-
-
     (lib.bbbbbutton10 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -9300,8 +7790,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 170, 22);
-
-
     (lib.bbbbbutton9 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -9313,8 +7801,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 133, 22);
-
-
     (lib.bbbbbutton8 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -9326,8 +7812,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 133, 22);
-
-
     (lib.bbbbbutton7 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -9339,8 +7823,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 133, 22);
-
-
     (lib.bbbbbutton6 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -9352,8 +7834,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 133, 22);
-
-
     (lib.bbbbbutton5 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -9365,8 +7845,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-66.5, -11, 133, 22);
-
-
     (lib.Background = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -9426,21 +7904,6 @@
         this.timeline.addTween(cjs.Tween.get({}).to({ state: [{ t: this.digit3a }, { t: this.digit2a }, { t: this.digit1a }, { t: this.digit6a }, { t: this.digit5a }, { t: this.digit4a }] }).wait(56));
 
         // Layer 2
-        this.digit4 = new lib.numberdisplaysmallblack();
-        this.digit4.name = "digit4";
-        this.digit4.parent = this;
-        this.digit4.setTransform(607, 19, 1, 1, 0, 0, 0, 97, -3);
-
-        this.digit5 = new lib.numberdisplaysmallblack();
-        this.digit5.name = "digit5";
-        this.digit5.parent = this;
-        this.digit5.setTransform(617, 19, 1, 1, 0, 0, 0, 97, -3);
-
-        this.digit6 = new lib.numberdisplaysmallblack();
-        this.digit6.name = "digit6";
-        this.digit6.parent = this;
-        this.digit6.setTransform(627, 19, 1, 1, 0, 0, 0, 97, -3);
-
         this.digit1 = new lib.numberdisplaysmallblack();
         this.digit1.name = "digit1";
         this.digit1.parent = this;
@@ -9451,12 +7914,29 @@
         this.digit2.parent = this;
         this.digit2.setTransform(587, 19, 1, 1, 0, 0, 0, 97, -3);
 
-        this.digit3 = new lib.numberdisplaysmallblack();
-        this.digit3.name = "digit3";
-        this.digit3.parent = this;
-        this.digit3.setTransform(597, 19, 1, 1, 0, 0, 0, 97, -3);
+        //Removed last 4 digits from passcode.
+        // this.digit3 = new lib.numberdisplaysmallblack();
+        // this.digit3.name = "digit3";
+        // this.digit3.parent = this;
+        // this.digit3.setTransform(597, 19, 1, 1, 0, 0, 0, 97, -3);
 
-        this.timeline.addTween(cjs.Tween.get({}).to({ state: [{ t: this.digit3 }, { t: this.digit2 }, { t: this.digit1 }, { t: this.digit6 }, { t: this.digit5 }, { t: this.digit4 }] }).wait(56));
+        // this.digit4 = new lib.numberdisplaysmallblack();
+        // this.digit4.name = "digit4";
+        // this.digit4.parent = this;
+        // this.digit4.setTransform(607, 19, 1, 1, 0, 0, 0, 97, -3);
+
+        // this.digit5 = new lib.numberdisplaysmallblack();
+        // this.digit5.name = "digit5";
+        // this.digit5.parent = this;
+        // this.digit5.setTransform(617, 19, 1, 1, 0, 0, 0, 97, -3);
+
+        // this.digit6 = new lib.numberdisplaysmallblack();
+        // this.digit6.name = "digit6";
+        // this.digit6.parent = this;
+        // this.digit6.setTransform(627, 19, 1, 1, 0, 0, 0, 97, -3);
+
+        //, { t: this.digit3 }, { t: this.digit4 }, { t: this.digit5 }, { t: this.digit6 }
+        this.timeline.addTween(cjs.Tween.get({}).to({ state: [{ t: this.digit1 }, { t: this.digit2 }] }).wait(56));
 
         // Layer_6
         this.menuButton = new lib.bbbbbutton11();
@@ -9488,8 +7968,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-6.9, -16, 733.9, 323.1);
-
-
     (lib.Tween36 = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -9520,8 +7998,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-80.7, -45.4, 161.4, 71.7);
-
-
     (lib.timery = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -9622,8 +8098,6 @@
         this.timeline.addTween(cjs.Tween.get(this.shape).wait(1));
 
     }).prototype = getMCSymbolPrototype(lib.timery, new cjs.Rectangle(-82.2, -27, 322.7, 110), null);
-
-
     (lib.LevelNumber = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -9668,8 +8142,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-234, -38, 540.1, 70);
-
-
     (lib.winnermessage = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -9781,8 +8253,6 @@
         this.timeline.addTween(cjs.Tween.get(this.instance_2).wait(1));
 
     }).prototype = getMCSymbolPrototype(lib.winnermessage, new cjs.Rectangle(-180, -15, 512, 125.1), null);
-
-
     (lib.PauseMenu = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -9824,8 +8294,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-174.9, 115.5, 1058.9, 110);
-
-
     (lib.Menu = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, { skipped: 104, resumeGame: 166, loadStage: 198, main: 133, startNewGame: 134, credits: 270 });
 
@@ -9900,6 +8368,7 @@
         }
         this.frame_197 = function() {
             stage.levelNumber = Number(stage.localSave.get());
+            setCurrentLevel(stage.levelNumber);
             this.parent.gotoAndPlay("stagetitle");
         }
         this.frame_220 = function() {
@@ -9913,16 +8382,19 @@
             var elem;
 
             var handleChange = function(e) {
-                value = e.target.value.slice(0, 6);
+                //value = e.target.value.slice(0, 6);
+                value = e.target.value.slice(0, 2);
                 if (elem) {
                     elem.value = value;
                 }
-                if (value.length === 6) {
+                //if (value.length === 6) {
+                if (value.length === 2) {
                     var index = stage.levelCodes.indexOf(value);
                     if (index === -1) {
                         _.wrong.gotoAndPlay("nope");
                     } else {
                         stage.levelNumber = index + 1;
+                        setCurrentLevel(stage.levelNumber);
                         _.play();
                     }
                 }
@@ -10199,8 +8671,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-274.2, 0, 824.2, 300);
-
-
     (lib.Instructions = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, { skip: 185 });
 
@@ -10407,8 +8877,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(0, -92.6, 722, 185.6);
-
-
     (lib.Congra = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, {});
 
@@ -10520,8 +8988,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-16, 0, 579, 300);
-
-
     (lib.BlockSmall = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, { "up": 0, "rollupleft": 1, "rollupup": 11, "rollupright": 21, "rollupdown": 31, "fallupleft": 41, "fallupup": 51, "fallupright": 61, "fallupdown": 71, "spawn": 82, "spawn2": 96, "phase": 104 });
 
@@ -10852,8 +9318,6 @@
 
     }).prototype = p = new cjs.MovieClip();
     p.nominalBounds = new cjs.Rectangle(-90, -114, 200, 150);
-
-
     // stage content:
     (lib.bloxorzhtml = function(mode, startPosition, loop) {
         this.initialize(mode, startPosition, loop, { menu: 1, instructions: 2, stagetitle: 3, game: 4, restart: 5, finish: 6 });
@@ -10881,9 +9345,6 @@
             window.addEventListener("click", function() {
                 window.focus();
             });
-
-
-
             window.buttonsWithSounds = [];
             window.addButtonSounds = function(btn) {
                 if (window.buttonsWithSounds.indexOf(btn) !== -1) {
@@ -10902,46 +9363,13 @@
             };
 
             stage.levelNumber = 1;
+            setCurrentLevel(stage.levelNumber);
             stage.levelAttempts = 0;
             stage.totalMoves = 0;
             stage.totalFalls = 0;
             stage.startTime = new Date();
             stage.doneIntro = false;
-            stage.levelCodes = [
-                "780464",
-                "290299",
-                "918660",
-                "520967",
-                "028431",
-                "524383",
-                "189493",
-                "499707",
-                "074355",
-                "300590",
-                "291709",
-                "958640",
-                "448106",
-                "210362",
-                "098598",
-                "000241",
-                "683596",
-                "284933",
-                "119785",
-                "543019",
-                "728724",
-                "987319",
-                "293486",
-                "088198",
-                "250453",
-                "426329",
-                "660141",
-                "769721",
-                "691859",
-                "280351",
-                "138620",
-                "879021",
-                "614955"
-            ];
+            stage.levelCodes = getLevelCodes();
 
             this.stop();
 
@@ -10981,6 +9409,7 @@
         }
         this.frame_1 = function() {
             stage.levelNumber = 1;
+            setCurrentLevel(stage.levelNumber);
             stage.levelAttempts = 0;
             stage.totalMoves = 0;
             stage.totalFalls = 0;
@@ -11006,6 +9435,12 @@
             }
         }
         this.frame_3 = function() {
+            if (stage.levelNumber == 1) {
+                stage.startTime = new Date();
+                //Timer starts on pressing skip instructions (first frame before the instructions text starts moving)
+                ResetTimer();
+                StartTimer();
+            }
             this.stop();
             var _ = this;
             var delay = 75;
@@ -11026,1041 +9461,10 @@
         this.frame_4 = function() {
             this.stop();
 
-            //
-            // levels
-            //
-
-            var levelfr = [];
-            levelfr.push("               ");
-            levelfr.push("        bbbb   ");
-            levelfr.push("        bbbb   ");
-            levelfr.push("bbb     b  bbbb");
-            levelfr.push("bbbbbbbbb   beb");
-            levelfr.push("bbb    bbh  bbb");
-            levelfr.push("bbb    bbb  bbb");
-            levelfr.push(" bbl   b       ");
-            levelfr.push("  bbbbbb       ");
-            levelfr.push("               ");
-            levelfr.push([1, 4]);
-            levelfr.push({
-                swatch95: [
-                    [3, 7, "onoff"]
-                ]
-            });
-
-            var levelsc = [];
-            levelsc.push("               ");
-            levelsc.push("       s       ");
-            levelsc.push("bbsb   b       ");
-            levelsc.push("bbbbb  b       ");
-            levelsc.push("bsbbbbbblrbblrb");
-            levelsc.push("bbbbbl  b   b  ");
-            levelsc.push("bbsb    b   b  ");
-            levelsc.push("b       s  bbb ");
-            levelsc.push("b         bbeb ");
-            levelsc.push("blrh      bbbb ");
-            levelsc.push([2, 4]);
-            levelsc.push({
-                swatch14: [
-                    [8, 4, "off"],
-                    [9, 4, "off"]
-                ],
-                swatch71: [
-                    [8, 4, "on"],
-                    [9, 4, "on"]
-                ],
-                swatch22: [
-                    [12, 4, "off"],
-                    [13, 4, "off"],
-                    [1, 9, "off"],
-                    [2, 9, "off"]
-                ],
-                swatch26: [
-                    [12, 4, "off"],
-                    [13, 4, "off"],
-                    [1, 9, "off"],
-                    [2, 9, "off"]
-                ],
-                swatch39: [
-                    [5, 5, "onoff"]
-                ],
-                swatch87: [
-                    [12, 4, "on"],
-                    [13, 4, "on"],
-                    [1, 9, "on"],
-                    [2, 9, "on"]
-                ]
-            });
-
-            var leveltw = [];
-            leveltw.push("bbb            ");
-            leveltw.push("bbbbbbbbbl  bbb");
-            leveltw.push("bbb    rbbbbbeb");
-            leveltw.push("bbb         hhb");
-            leveltw.push("bbb            ");
-            leveltw.push("bbb            ");
-            leveltw.push("bbb   rbbbbbh  ");
-            leveltw.push("bbbbbbbbl  bb  ");
-            leveltw.push("bsb        bb  ");
-            leveltw.push("bbb        bh  ");
-            leveltw.push([1, 1]);
-            leveltw.push({
-                swatch18: [
-                    [8, 7, "onoff"]
-                ],
-                swatch126: [
-                    [7, 2, "on"]
-                ],
-                swatch129: [
-                    [9, 1, "on"],
-                    [8, 7, "off"]
-                ],
-                swatch123: [
-                    [6, 6, "off"]
-                ],
-                swatch133: [
-                    [6, 6, "on"]
-                ]
-            });
-
-            var levelsw = [];
-            levelsw.push("               ");
-            levelsw.push(" bbbbbhhhbbbbb ");
-            levelsw.push(" bbbb      beb ");
-            levelsw.push(" bbbb      bbb ");
-            levelsw.push(" bbbbbbb    b  ");
-            levelsw.push(" h    rb    b  ");
-            levelsw.push(" h    qb   bb  ");
-            levelsw.push(" h    rb   bb  ");
-            levelsw.push("      bbbbbb   ");
-            levelsw.push("               ");
-            levelsw.push([12, 1]);
-            levelsw.push({
-                swatch81: [
-                    [6, 5, "off"],
-                    [6, 6, "on"]
-                ],
-                swatch71: [
-                    [6, 7, "on"]
-                ],
-                swatch61: [
-                    [6, 7, "off"]
-                ],
-                swatch15: [
-                    [6, 5, "off"]
-                ],
-                swatch16: [
-                    [6, 5, "on"],
-                    [6, 7, "off"]
-                ],
-                swatch17: [
-                    [6, 6, "off"],
-                    [6, 7, "on"]
-                ]
-            });
-
-            var leveldd = [];
-            leveldd.push("  bb           ");
-            leveldd.push("  bbb          ");
-            leveldd.push("  bbs     bbbl ");
-            leveldd.push("   bbbbl  bebl ");
-            leveldd.push("      bblrbbb  ");
-            leveldd.push(" bb   bb       ");
-            leveldd.push("bbhbkqbb       ");
-            leveldd.push("bbk   bb   bbb ");
-            leveldd.push("bbk   bbsbbbbb ");
-            leveldd.push("           bbb ");
-            leveldd.push([1, 7]);
-            leveldd.push({
-                swatch42: [
-                    [13, 2, "onoff"],
-                    [13, 3, "onoff"],
-                    [8, 4, "onoff"],
-                    [9, 4, "onoff"]
-                ],
-                swatch88: [
-                    [7, 3, "on"],
-                    [4, 6, "off"],
-                    [5, 6, "off"]
-                ],
-                swatch26: [
-                    [8, 4, "on"],
-                    [9, 4, "on"]
-                ]
-            });
-
-            var levelmn = [];
-            levelmn.push("        bb     ");
-            levelmn.push("       bbb     ");
-            levelmn.push("bb  bbbbbb     ");
-            levelmn.push("bbbbbb  b      ");
-            levelmn.push("bbbb    b   bbb");
-            levelmn.push(" bb     hbbbbeb");
-            levelmn.push("  b     hb  bbb");
-            levelmn.push("  bbbl  bb     ");
-            levelmn.push("   bbb  bb     ");
-            levelmn.push("   rbbbbbb     ");
-            levelmn.push([1, 3]);
-            levelmn.push({
-                swatch85: [
-                    [3, 9, "onoff"]
-                ],
-                swatch86: [
-                    [5, 7, "onoff"]
-                ]
-            });
-
-            var levellh = [];
-            levellh.push("      bb    bbb");
-            levellh.push("    bbbbbb  beb");
-            levellh.push(" bbbbbbsbbbbbbb");
-            levellh.push(" bbbbs  bbbbbl ");
-            levellh.push(" bbb      bbb  ");
-            levellh.push("  b        b   ");
-            levellh.push("  b        b   ");
-            levellh.push("  bl      qb   ");
-            levellh.push("  bb      bb   ");
-            levellh.push("   h      h    ");
-            levellh.push([2, 3]);
-            levellh.push({
-                swatch109: [
-                    [3, 7, "onoff"]
-                ],
-                swatch39: [
-                    [13, 3, "onoff"]
-                ],
-                swatch53: [
-                    [3, 7, "off"],
-                    [13, 3, "off"]
-                ],
-                swatch72: [
-                    [3, 7, "off"],
-                    [13, 3, "off"]
-                ]
-            });
-
-            var levelgg = [];
-            levelgg.push("     bbbbbb    ");
-            levelgg.push("     b  bbb    ");
-            levelgg.push("     b  bbbbb  ");
-            levelgg.push("bbbbbb     bbbb");
-            levelgg.push("    bbb    bbeb");
-            levelgg.push("    bbb     bbb");
-            levelgg.push("      b  bb    ");
-            levelgg.push("      bbbbb    ");
-            levelgg.push("      bbbbb    ");
-            levelgg.push("       bbb     ");
-            levelgg.push([0, 3]);
-            levelgg.push({});
-
-            var levelss = [];
-            levelss.push("         bbb   ");
-            levelss.push("         bbb   ");
-            levelss.push("         bbb   ");
-            levelss.push("bbbbbb   bbbbbb");
-            levelss.push("bbbbvb   bbbbeb");
-            levelss.push("bbbbbb   bbbbbb");
-            levelss.push("         bbb   ");
-            levelss.push("         bbb   ");
-            levelss.push("         bbb   ");
-            levelss.push("               ");
-            levelss.push([1, 4]);
-            levelss.push({});
-            levelss.push({
-                swatch44: [10, 1, 10, 7]
-            });
-
-            var levelre = [];
-            levelre.push("               ");
-            levelre.push("               ");
-            levelre.push("               ");
-            levelre.push("bbbb   b   bbbb");
-            levelre.push("bbbb   b   bbvb");
-            levelre.push("bbbbbbbbbbbbbbb");
-            levelre.push("      beb      ");
-            levelre.push("      bbb      ");
-            levelre.push("               ");
-            levelre.push("               ");
-            levelre.push([1, 4]);
-            levelre.push({});
-            levelre.push({
-                swatch134: [12, 4, 2, 4]
-            });
-
-            var levelpp = [];
-            levelpp.push(" bbb     bbbbbb");
-            levelpp.push(" beblrblrbbbbvb");
-            levelpp.push(" bbb     bbbbl ");
-            levelpp.push("          bbbl ");
-            levelpp.push("            bb ");
-            levelpp.push("             b ");
-            levelpp.push("             b ");
-            levelpp.push("            bb ");
-            levelpp.push("     bbbbb  bb ");
-            levelpp.push("     bs  bbbhb ");
-            levelpp.push([10, 1]);
-            levelpp.push({
-                swatch129: [
-                    [7, 1, "onoff"],
-                    [8, 1, "onoff"],
-                    [13, 2, "onoff"],
-                    [13, 3, "onoff"]
-                ],
-                swatch69: [
-                    [4, 1, "onoff"],
-                    [5, 1, "onoff"]
-                ]
-            });
-            levelpp.push({
-                swatch131: [13, 1, 10, 1]
-            });
-
-            var levelez = [];
-            levelez.push("               ");
-            levelez.push("               ");
-            levelez.push("  bbb          ");
-            levelez.push("  bbbbbb       ");
-            levelez.push("  bbbbbbbbb    ");
-            levelez.push("   bbbbbbbbb   ");
-            levelez.push("       bbebb   ");
-            levelez.push("        bbb    ");
-            levelez.push("               ");
-            levelez.push("               ");
-            levelez.push([3, 3]);
-
-            var levelub = [];
-            levelub.push("        bbb    ");
-            levelub.push("   bbb  bbb    ");
-            levelub.push("blrbbbbbbbbbbb ");
-            levelub.push("blrbbb      hb ");
-            levelub.push("b           bb ");
-            levelub.push("b           bb ");
-            levelub.push("b       bbbbbb ");
-            levelub.push("bbbbb   bbb    ");
-            levelub.push(" bbeb   bbb    ");
-            levelub.push("  bbb   bbbbbh ");
-            levelub.push([4, 2]);
-            levelub.push({
-                swatch123: [
-                    [1, 2, "onoff"],
-                    [2, 2, "onoff"]
-                ],
-                swatch139: [
-                    [1, 3, "onoff"],
-                    [2, 3, "onoff"]
-                ]
-            });
-
-            var levelht = [];
-            levelht.push("       bbb  bbb");
-            levelht.push("    bkqbbblrhbb");
-            levelht.push("bblrb  bbb  bbb");
-            levelht.push("bbbbb   s      ");
-            levelht.push("bb             ");
-            levelht.push(" b     v       ");
-            levelht.push(" b     b       ");
-            levelht.push("bbb   bbb  sbb ");
-            levelht.push("bbbbbbbbbkqbeb ");
-            levelht.push("bbb   bbb  sbb ");
-            levelht.push([1, 8]);
-            levelht.push({
-                swatch121: [
-                    [2, 2, "onoff"],
-                    [3, 2, "onoff"],
-                    [5, 1, "onoff"],
-                    [6, 1, "onoff"]
-                ],
-                swatch83: [
-                    [5, 1, "onoff"],
-                    [6, 1, "onoff"],
-                    [10, 1, "onoff"],
-                    [11, 1, "onoff"]
-                ],
-                swatch117: [
-                    [9, 8, "off"],
-                    [10, 8, "off"]
-                ],
-                swatch119: [
-                    [9, 8, "off"],
-                    [10, 8, "off"]
-                ]
-            });
-            levelht.push({
-                swatch75: [13, 1, 1, 8]
-            });
-
-            var levelis = [];
-            levelis.push("               ");
-            levelis.push("               ");
-            levelis.push(" v        bbb  ");
-            levelis.push("vbvlrhhblrbeb  ");
-            levelis.push(" v        bbb  ");
-            levelis.push("               ");
-            levelis.push("               ");
-            levelis.push("  bbb   bbb    ");
-            levelis.push("  bbbbbbbvb    ");
-            levelis.push("  bbb   bbb    ");
-            levelis.push([3, 8]);
-            levelis.push({
-                swatch53: [
-                    [3, 3, "on"],
-                    [4, 3, "on"]
-                ],
-                swatch63: [
-                    [8, 3, "on"],
-                    [9, 3, "on"]
-                ]
-            });
-            levelis.push({
-                swatch98: [1, 2, 0, 3],
-                swatch12: [7, 3, 5, 3],
-                swatch03: [2, 3, 1, 2],
-                swatch23: [0, 3, 2, 3],
-                swatch14: [1, 4, 0, 3]
-            });
-
-            var leveltb = [];
-            leveltb.push("            bbb");
-            leveltb.push("  bbbkqbbblrbbb");
-            leveltb.push("  bbb  sbb  bbb");
-            leveltb.push("  bbb  bbb     ");
-            leveltb.push("  bsb  vbs     ");
-            leveltb.push("  bbb  bbb     ");
-            leveltb.push("bbbb   bbblrsbb");
-            leveltb.push("bs          bbb");
-            leveltb.push("            beb");
-            leveltb.push("            bbb");
-            leveltb.push([8, 2]);
-            leveltb.push({
-                swatch72: [
-                    [5, 1, "off"],
-                    [6, 1, "off"]
-                ],
-                swatch94: [
-                    [5, 1, "off"],
-                    [6, 1, "off"]
-                ],
-                swatch34: [
-                    [5, 1, "off"],
-                    [6, 1, "off"]
-                ],
-                swatch126: [
-                    [10, 6, "onoff"],
-                    [11, 6, "onoff"]
-                ],
-                swatch17: [
-                    [10, 1, "onoff"],
-                    [11, 1, "onoff"]
-                ]
-            });
-            leveltb.push({
-                swatch74: [13, 1, 13, 7]
-            });
-
-            var levelmp = [];
-            levelmp.push("  skqb   blrh  ");
-            levelmp.push("     b   b     ");
-            levelmp.push("     bbbbb     ");
-            levelmp.push("hlrbbbbbbbbblrh");
-            levelmp.push("     bbbbb     ");
-            levelmp.push("     rb  b     ");
-            levelmp.push("     rb  bkqs  ");
-            levelmp.push("bbb  bb  b     ");
-            levelmp.push("beblrb   b     ");
-            levelmp.push("bbbl     bkqs  ");
-            levelmp.push([7, 3]);
-            levelmp.push({
-                swatch20: [
-                    [10, 0, "on"],
-                    [11, 0, "on"],
-                    [10, 6, "off"],
-                    [11, 6, "off"]
-                ],
-                swatch120: [
-                    [5, 5, "on"],
-                    [5, 6, "on"]
-                ],
-                swatch03: [
-                    [3, 8, "on"],
-                    [4, 8, "on"],
-                    [10, 9, "off"],
-                    [11, 9, "off"]
-                ],
-                swatch143: [
-                    [3, 9, "on"]
-                ],
-                swatch126: [
-                    [1, 3, "on"],
-                    [2, 3, "on"]
-                ],
-                swatch129: [
-                    [12, 3, "on"],
-                    [13, 3, "on"],
-                    [10, 6, "off"],
-                    [11, 6, "off"],
-                    [3, 0, "off"],
-                    [4, 0, "off"],
-                    [10, 0, "off"],
-                    [11, 0, "off"]
-                ]
-            });
-
-            var levelhg = [];
-            levelhg.push("     bbbb    v ");
-            levelhg.push("     bbsbbb  b ");
-            levelhg.push("    bbbbbbb  b ");
-            levelhg.push("bbkqbbbb  bbbb ");
-            levelhg.push("bbbl  b   bb   ");
-            levelhg.push("bbb   b   b    ");
-            levelhg.push(" b    bbb      ");
-            levelhg.push(" h    bebl     ");
-            levelhg.push("      bbb      ");
-            levelhg.push("               ");
-            levelhg.push([10, 5]);
-            levelhg.push({
-                swatch71: [
-                    [2, 3, "off"],
-                    [3, 3, "off"]
-                ],
-                swatch17: [
-                    [9, 7, "on"],
-                    [3, 4, "on"]
-                ]
-            });
-            levelhg.push({
-                swatch130: [12, 3, 10, 5]
-            });
-
-            var levelgt = [];
-            levelgt.push("             h ");
-            levelgt.push("      bbb  bbb ");
-            levelgt.push("      bhbbbbbl ");
-            levelgt.push("    bbbbb  bb  ");
-            levelgt.push("    bebl   bb  ");
-            levelgt.push("  bbbbb   bbbb ");
-            levelgt.push(" bbbb     bbbb ");
-            levelgt.push(" bbbb  bbbbb   ");
-            levelgt.push("      bbb      ");
-            levelgt.push("      bbb      ");
-            levelgt.push([3, 6]);
-            levelgt.push({
-                swatch72: [
-                    [13, 2, "onoff"]
-                ],
-                swatch130: [
-                    [7, 4, "onoff"]
-                ]
-            });
-
-            var leveldw = [];
-            leveldw.push("   bbbk        ");
-            leveldw.push("   bebk        ");
-            leveldw.push("   bbb         ");
-            leveldw.push("   b   bbbbbb  ");
-            leveldw.push("   b   bb  bb  ");
-            leveldw.push("  bbbbbbb  bbb ");
-            leveldw.push("       bs    b ");
-            leveldw.push("       bbbb  b ");
-            leveldw.push("       bbbbbbb ");
-            leveldw.push("          bbb  ");
-            leveldw.push([2, 5]);
-            leveldw.push({
-                swatch86: [
-                    [6, 0, "off"],
-                    [6, 1, "off"]
-                ]
-            });
-
-            var levelkn = [];
-            levelkn.push("               ");
-            levelkn.push("           bbbb");
-            levelkn.push("    rbbbbbbbhbv");
-            levelkn.push("  blrbhb   bbbb");
-            levelkn.push(" hb  bb      b ");
-            levelkn.push(" bb  b       b ");
-            levelkn.push(" bbbbb     bbb ");
-            levelkn.push(" bbb  bbblrbeb ");
-            levelkn.push("      hbl  bbb ");
-            levelkn.push("               ");
-            levelkn.push([2, 3]);
-            levelkn.push({
-                swatch14: [
-                    [4, 2, "on"]
-                ],
-                swatch122: [
-                    [4, 3, "on"],
-                    [3, 3, "on"]
-                ],
-                swatch63: [
-                    [8, 8, "on"]
-                ],
-                swatch68: [
-                    [9, 7, "on"],
-                    [10, 7, "on"]
-                ]
-            });
-            levelkn.push({
-                swatch142: [6, 7, 8, 7]
-            });
-
-            var levelol = [];
-            levelol.push("     bbsbbb    ");
-            levelol.push("     bbbbbbl   ");
-            levelol.push("bbb  sbbsbbbbb ");
-            levelol.push("bbbkqbbbbssbbs ");
-            levelol.push("     bbsbbsbbb ");
-            levelol.push("     bbbbbbsbb ");
-            levelol.push("bbb  bbbbbbsbbb");
-            levelol.push("bebkqbsb  bbbsh");
-            levelol.push("bbb  bbb   bbbb");
-            levelol.push("bbb         bbb");
-            levelol.push([1, 3]);
-            levelol.push({
-                swatch147: [
-                    [11, 1, "on"]
-                ],
-                swatch70: [
-                    [3, 7, "off"],
-                    [4, 7, "off"]
-                ],
-                swatch52: [
-                    [3, 7, "off"],
-                    [4, 7, "off"]
-                ],
-                swatch82: [
-                    [3, 7, "off"],
-                    [4, 7, "off"]
-                ],
-                swatch93: [
-                    [3, 7, "off"],
-                    [4, 7, "off"]
-                ],
-                swatch103: [
-                    [3, 7, "off"],
-                    [4, 7, "off"]
-                ],
-                swatch104: [
-                    [3, 7, "off"],
-                    [4, 7, "off"]
-                ],
-                swatch115: [
-                    [3, 7, "off"],
-                    [4, 7, "off"]
-                ],
-                swatch133: [
-                    [3, 7, "off"],
-                    [4, 7, "off"]
-                ],
-                swatch116: [
-                    [3, 7, "off"],
-                    [4, 7, "off"]
-                ],
-                swatch137: [
-                    [3, 7, "off"],
-                    [4, 7, "off"]
-                ],
-                swatch74: [
-                    [3, 7, "off"],
-                    [4, 7, "off"]
-                ],
-                swatch67: [
-                    [3, 7, "off"],
-                    [4, 7, "off"]
-                ]
-            });
-
-            var levelwe = [];
-            levelwe.push("               ");
-            levelwe.push("   fffffff     ");
-            levelwe.push("   fffffff     ");
-            levelwe.push("bbbb     bbb   ");
-            levelwe.push("bbb       bb   ");
-            levelwe.push("bbb       bb   ");
-            levelwe.push("bbb  bbbbfffff ");
-            levelwe.push("bbb  bbbbfffff ");
-            levelwe.push("     beb  ffbf ");
-            levelwe.push("     bbb  ffff ");
-            levelwe.push([1, 6]);
-            levelwe.push({});
-
-            var levelsb = [];
-            levelsb.push(" bbbfbbbbfbbbb ");
-            levelsb.push(" bb        bbb ");
-            levelsb.push(" bb         bbb");
-            levelsb.push(" bbb   bbb  bbb");
-            levelsb.push(" bbbfffbeb  bbb");
-            levelsb.push(" bbb  fbbb  b  ");
-            levelsb.push("   b  fffffbb  ");
-            levelsb.push("   bbbffbfff   ");
-            levelsb.push("    bbffffff   ");
-            levelsb.push("    bbb  bb    ");
-            levelsb.push([13, 3]);
-            levelsb.push({});
-
-            var levelpq = [];
-            levelpq.push("               ");
-            levelpq.push("      bbbb  bbb");
-            levelpq.push("bbbb  bbhb  beb");
-            levelpq.push("bbsb  bbbb  bbb");
-            levelpq.push("bbbb  bbbb  bbb");
-            levelpq.push("bbbblrbbbblrbbb");
-            levelpq.push("bbbb  bbbb     ");
-            levelpq.push("               ");
-            levelpq.push("               ");
-            levelpq.push("               ");
-            levelpq.push([1, 5]);
-            levelpq.push({
-                swatch23: [
-                    [4, 5, "onoff"],
-                    [5, 5, "onoff"]
-                ],
-                swatch82: [
-                    [10, 5, "onoff"],
-                    [11, 5, "onoff"]
-                ]
-            });
-
-            var leveltt = [];
-            leveltt.push(" bbb        bbb");
-            leveltt.push(" bhb        bsb");
-            leveltt.push(" bbb   bbbkqbbb");
-            leveltt.push("rbbbl  beb  bbs");
-            leveltt.push("b   b  bbb    b");
-            leveltt.push("s   b  fff    b");
-            leveltt.push("blrbbbfffffbbbk");
-            leveltt.push("   bbbfffffbvb ");
-            leveltt.push("   bbbfffffbbb ");
-            leveltt.push("   bbbbbl      ");
-            leveltt.push([4, 7]);
-            leveltt.push({
-                swatch143: [
-                    [14, 6, "off"],
-                    [10, 2, "off"],
-                    [11, 2, "off"]
-                ],
-                swatch131: [
-                    [8, 9, "onoff"],
-                    [1, 6, "on"],
-                    [2, 6, "on"]
-                ],
-                swatch05: [
-                    [0, 3, "on"],
-                    [1, 6, "off"],
-                    [2, 6, "off"]
-                ],
-                swatch21: [
-                    [4, 3, "on"]
-                ]
-            });
-            leveltt.push({
-                swatch127: [12, 7, 2, 2]
-            });
-
-            var levelvh = [];
-            levelvh.push("bbb    bbbbbbbb");
-            levelvh.push("bbbbbbbbbbb  bb");
-            levelvh.push("bbb    bb    bb");
-            levelvh.push("            bhb");
-            levelvh.push("            bb ");
-            levelvh.push("bbb  ffffb  ss ");
-            levelvh.push("bebfffffff  bbb");
-            levelvh.push("bbbfffffffffbbb");
-            levelvh.push("     fffffffbbb");
-            levelvh.push("      qbbk     ");
-            levelvh.push([1, 1]);
-            levelvh.push({
-                swatch125: [
-                    [6, 9, "off"]
-                ],
-                swatch135: [
-                    [9, 9, "off"]
-                ],
-                swatch133: [
-                    [6, 9, "off"],
-                    [9, 9, "off"]
-                ]
-            });
-
-            var levelpb = [];
-            levelpb.push(" bbbbbbbbbsbbbb");
-            levelpb.push("     bb      bb");
-            levelpb.push("     bb      bb");
-            levelpb.push("             bb");
-            levelpb.push("             bb");
-            levelpb.push("bbb  bblrbsbbbb");
-            levelpb.push("beb  bb        ");
-            levelpb.push("bbb  bb        ");
-            levelpb.push(" bb  bb        ");
-            levelpb.push(" bkqbbbbbbsbbb ");
-            levelpb.push([1, 0]);
-            levelpb.push({
-                swatch100: [
-                    [7, 5, "onoff"],
-                    [8, 5, "onoff"]
-                ],
-                swatch105: [
-                    [2, 9, "off"],
-                    [3, 9, "off"]
-                ],
-                swatch109: [
-                    [2, 9, "on"],
-                    [3, 9, "on"]
-                ]
-            });
-
-            var levelkc = [];
-            levelkc.push("           bbbl");
-            levelkc.push(" bbb    h  bebl");
-            levelkc.push(" bbbkqbbblrbbbl");
-            levelkc.push(" bbb  bbb   b  ");
-            levelkc.push(" fff  sbb   f  ");
-            levelkc.push("  f   bbb  fff ");
-            levelkc.push("  b   bbb  bbb ");
-            levelkc.push("qbbblrbsbkqbbb ");
-            levelkc.push("qbhb  h    bbb ");
-            levelkc.push("qbbb           ");
-            levelkc.push([12, 7]);
-            levelkc.push({
-                swatch81: [
-                    [9, 2, "onoff"],
-                    [10, 2, "onoff"]
-                ],
-                swatch68: [
-                    [4, 7, "onoff"],
-                    [5, 7, "onoff"]
-                ],
-                swatch28: [
-                    [14, 2, "on"],
-                    [14, 1, "on"],
-                    [14, 0, "on"],
-                    [4, 2, "off"],
-                    [5, 2, "off"]
-                ],
-                swatch77: [
-                    [4, 2, "off"],
-                    [5, 2, "off"],
-                    [9, 2, "off"],
-                    [10, 2, "off"],
-                    [4, 7, "off"],
-                    [5, 7, "off"],
-                    [9, 7, "off"],
-                    [10, 7, "off"]
-                ],
-                swatch64: [
-                    [4, 2, "off"],
-                    [5, 2, "off"],
-                    [9, 2, "off"],
-                    [10, 2, "off"],
-                    [4, 7, "off"],
-                    [5, 7, "off"],
-                    [9, 7, "off"],
-                    [10, 7, "off"]
-                ]
-            });
-
-            var levelji = [];
-            levelji.push("               ");
-            levelji.push("               ");
-            levelji.push("      bbbbbbb  ");
-            levelji.push("bbbb  bbb  bb  ");
-            levelji.push("bbbbbbbbb  bbbb");
-            levelji.push("bbbb       bbeb");
-            levelji.push("bbbb       bbbb");
-            levelji.push("            bbb");
-            levelji.push("               ");
-            levelji.push("               ");
-            levelji.push([1, 5]);
-            levelji.push({});
-
-            var leveled = [];
-            leveled.push("             bh");
-            leveled.push("   bbkqbb   bbb");
-            leveled.push("  bbblrbb  bhbb");
-            leveled.push("  beb   bbbbb  ");
-            leveled.push("  bbb    bbb   ");
-            leveled.push("          bb   ");
-            leveled.push("     bbb  bb   ");
-            leveled.push(" bblrbhb  bb   ");
-            leveled.push(" bblrbbbbbbb   ");
-            leveled.push("               ");
-            leveled.push([11, 6]);
-            leveled.push({
-                swatch140: [
-                    [3, 7, "onoff"],
-                    [4, 7, "onoff"],
-                    [5, 1, "onoff"],
-                    [6, 1, "onoff"]
-                ],
-                swatch122: [
-                    [3, 8, "onoff"],
-                    [4, 8, "onoff"]
-                ],
-                swatch67: [
-                    [5, 2, "onoff"],
-                    [6, 2, "onoff"]
-                ]
-            });
-
-            var levelfm = [];
-            levelfm.push(" bbkqbb        ");
-            levelfm.push(" bb  bbb       ");
-            levelfm.push("ffb  bbbb      ");
-            levelfm.push("ff     bbb     ");
-            levelfm.push("ff      bbb    ");
-            levelfm.push("fbbb     bbv   ");
-            levelfm.push(" beb      bbbbb");
-            levelfm.push(" bbbbbb   bsbbb");
-            levelfm.push("  b  bb   bbb  ");
-            levelfm.push("  b  bbbkqbbb  ");
-            levelfm.push([2, 2]);
-            levelfm.push({
-                swatch117: [
-                    [4, 0, "off"],
-                    [3, 0, "off"],
-                    [8, 9, "off"],
-                    [9, 9, "off"]
-                ]
-            });
-            levelfm.push({
-                swatch115: [14, 6, 12, 9]
-            });
-
-            var levelgv = [];
-            levelgv.push("   bbbbbffbbbb ");
-            levelgv.push("   bebb     fb ");
-            levelgv.push("   bbb      fbh");
-            levelgv.push("       fbbkqbbb");
-            levelgv.push("  b    ff     b");
-            levelgv.push(" hbf   ff     b");
-            levelgv.push("ffff   bbl  rbb");
-            levelgv.push("fffbfbffbf  hbl");
-            levelgv.push("bfffffffffffb  ");
-            levelgv.push(" fbfff  ffffb  ");
-            levelgv.push([2, 4]);
-            levelgv.push({
-                swatch15: [
-                    [10, 3, "on"],
-                    [11, 3, "on"]
-                ],
-                swatch142: [
-                    [10, 3, "off"],
-                    [11, 3, "off"],
-                    [9, 6, "on"],
-                    [12, 6, "on"]
-                ],
-                swatch127: [
-                    [14, 7, "onoff"]
-                ]
-            });
-
-            var levelxx = [];
-            levelxx.push("           bbbb");
-            levelxx.push(" bbbbkqbsbbbbbb");
-            levelxx.push(" bbbb       bbb");
-            levelxx.push(" bbsb          ");
-            levelxx.push(" bbbb          ");
-            levelxx.push("   bbbsbkqbbb  ");
-            levelxx.push("          bbbbs");
-            levelxx.push("bbb       bbbbb");
-            levelxx.push("bebbbkqbbbbbb  ");
-            levelxx.push("bbbb           ");
-            levelxx.push([13, 1]);
-            levelxx.push({
-                swatch81: [
-                    [6, 1, "onoff"],
-                    [5, 1, "onoff"]
-                ],
-                swatch65: [
-                    [5, 8, "off"],
-                    [6, 8, "off"]
-                ],
-                swatch33: [
-                    [5, 8, "on"],
-                    [6, 8, "on"]
-                ],
-                swatch146: [
-                    [5, 8, "onoff"],
-                    [6, 8, "onoff"]
-                ]
-            });
-
-            var leveltest = [];
-            leveltest.push("bbbbbbbbbbbb   ");
-            leveltest.push("bbbbbbbbb      ");
-            leveltest.push("bbbb  bbb      ");
-            leveltest.push("sbbb  bbb      ");
-            leveltest.push("bbbbbbbbb      ");
-            leveltest.push("sbbbbbbbb      ");
-            leveltest.push("bbbb           ");
-            leveltest.push("sbbb           ");
-            leveltest.push("bbbb           ");
-            leveltest.push("               ");
-            leveltest.push([0, 0]);
-            leveltest.push({
-                swatch03: [
-                    [4, 1, "on"],
-                    [5, 1, "on"],
-                    [4, 2, "on"],
-                    [5, 2, "on"]
-                ],
-                swatch05: [
-                    [4, 1, "off"],
-                    [5, 1, "off"],
-                    [4, 2, "off"],
-                    [5, 2, "off"]
-                ],
-                swatch07: [
-                    [4, 1, "onoff"],
-                    [5, 1, "onoff"],
-                    [4, 2, "onoff"],
-                    [5, 2, "onoff"]
-                ]
-            });
-
-            var levels = [
-                levelez,
-                levelpq,
-                levelji,
-                levelwe,
-                levelxx,
-                levelgg,
-                levelfr,
-                levelss,
-                levelre,
-                levelpp,
-                leveldw,
-                levelgt,
-                levelsb,
-                levelub,
-                levelht,
-                levelis,
-                leveltw,
-                levelsc,
-                levelpb,
-                leveltb,
-                levelmn,
-                levellh,
-                leveltt,
-                levelkn,
-                leveldd,
-                levelhg,
-                levelvh,
-                levelfm,
-                levelmp,
-                levelgv,
-                levelkc,
-                leveled,
-                levelol
-            ];
-
-            for (var i = 0; i < levels.length; i++) {
-                levels[i].unshift(stage.levelCodes[i]);
-            }
-
+            var levels = getLevels();
             //
             // wait
             //
-
             function wait(delay, then) {
                 var tick = function() {
                     if (delay === 0) {
@@ -12179,6 +9583,7 @@
 
                 mc.updateArrowKey = function(key) {
                     if (key && mc.roll.idle) {
+                        updateMovesReceived();
                         mc.roll.idle = false;
                         mc.gotoAndPlay("roll" + mc.roll.position + key);
                         mc.roll.depthNudge = (key === "left" || key === "down") ? 1 : 0;
@@ -12702,6 +10107,7 @@
                 };
 
                 _.onJoinBlock = function(position, x, y) {
+                    setSplit(0);
                     _.removeAllBlocks();
                     _.addBlock(x, y, new lib.Block(), new lib.BlockShadow());
                     _.blocks[0].gotoAndStop(position);
@@ -12712,9 +10118,7 @@
                 _.onLandEnd = function(mc) {
                     mc.roll.idle = false;
                     mc.gotoAndPlay("end");
-                    wait(20, function() {
-                        _.transitionOutLevelWin(mc.pos.x, mc.pos.y);
-                    });
+                    wait(20, function() { _.transitionOutLevelWin(mc.pos.x, mc.pos.y); });
                 };
 
                 _.addBlock = function(x, y, block, blockShadow) {
@@ -12945,6 +10349,7 @@
                 };
 
                 _.updateMoveCounter = function() {
+                    globalMoves = _.moves + stage.totalMoves;
                     var text = _.moves + stage.totalMoves + "";
                     while (text.length < 6) {
                         text = "0" + text;
@@ -12953,10 +10358,10 @@
                     text.split('').map(function(num, index) {
                         _.background["digit" + (index + 1) + "a"].gotoAndStop(num);
                     });
-
                 };
 
                 _.transitionOutLevelLose = function() {
+                    setSplit(0)
                     _.sounds.end.gotoAndPlay("lose");
                     _.background.play();
                     _.onScreenArrows.play();
@@ -12993,6 +10398,7 @@
                     wait(30, function() {
                         _.destroy();
                         stage.levelNumber++;
+                        setCurrentLevel(stage.levelNumber);
                         stage.levelAttempts = 0;
                         stage.totalMoves += _.moves;
                         stage.localSave.save(stage.levelNumber);
@@ -13008,6 +10414,8 @@
                     _.destroy();
                     _.onScreenArrows.play();
                     stagePlay("menu");
+                    setStageLoaded(0);
+                    setSplit(0);
                 };
 
                 addKeys(_);
@@ -13131,9 +10539,6 @@
         ],
         preloads: []
     };
-
-
-
     // bootstrap callback support:
 
     (lib.Stage = function(canvas) {
