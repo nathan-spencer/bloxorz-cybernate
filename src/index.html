@@ -151,38 +151,39 @@
 
 <body onload="init();">
 	<div id="screen-split">
-		<div id="table_container">
-			<table id="timeTable">
-				<thead>
-					<tr>
-						<th>Stage</th>
-						<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time</th>
-					</tr>
-				</thead>
-				<tbody id="timeRows">
-					<tr id='stage1'>
-						<td>1</td>
-						<td>-</td>
-					</tr>
-					<tr id='stage2'>
-						<td>2</td>
-						<td>-</td>
-					</tr>
-				</tbody>
-			</table>
-		</div>
-		<!-- <div>
+		<div id="side_panel">
 			<select id="image_select" onchange="change_image()">
-				<option value="images/bloxorz_atlas_.png">Original</option>
-				<option value="images/bloxorz_atlas_gray.png">Gray</option>
-				<option value="images/bloxorz_atlas_holiday.png">Holiday</option>
-			</select> -->
+				<option value="">Select Theme</option>
+				<option value="original">Original</option>
+				<option value="gray">Gray</option>
+				<option value="holiday">Holiday</option>
+			</select>
+			<div id="table_container">
+				<table id="timeTable">
+					<thead>
+						<tr>
+							<th>Stage</th>
+							<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Time</th>
+						</tr>
+					</thead>
+					<tbody id="timeRows">
+						<tr id='stage1'>
+							<td>1</td>
+							<td>-</td>
+						</tr>
+						<tr id='stage2'>
+							<td>2</td>
+							<td>-</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
 		<div id="animation_container">
-			<canvas id="canvas" width="550" height="300"></canvas>
+			<canvas id="canvas"></canvas>
 			<div id="dom_overlay_container"></div>
 		</div>
 	</div>
-	<!-- </div> -->
 	<div id="_preload_div_">
 		<img id="preload_img" src="images/preloader.gif" />
 	</div>
@@ -203,23 +204,11 @@
 			fnSendMsg(event);
 		});
 
-		// function change_image() {
-		// 	let e = document.getElementById("image_select");
-		// 	console.log(e.value);
-
-		// 	var comp = AdobeAn.getComposition("FE31B685947E79408F0C8768D6EC8517");
-		// 	var lib = comp.getLibrary();
-		// 	lib.properties.manifest[0] = { src: e.value, id: "bloxorz_atlas_" }
-		// 	var loader = new createjs.LoadQueue(false);
-		// 	loader.installPlugin(createjs.Sound);
-		// 	loader.addEventListener("fileload", function (evt) {
-		// 		handleFileLoad(evt, comp)
-		// 	});
-		// 	loader.addEventListener("complete", function (evt) {
-		// 		handleComplete(evt, comp)
-		// 	});
-		// 	loader.loadManifest(lib.properties.manifest);
-		// }
+		function change_image() {
+			let e = document.getElementById("image_select");
+			console.log(e.value);
+			window.location.href = window.location.pathname + "?" + $.param({ 'img': e.value });
+		}
 	</script>
 </body>
 

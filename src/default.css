@@ -46,16 +46,22 @@
 	height: 100vh;
 }
 
+#screen-split {
+	display: grid;
+	grid-template-columns: auto 1fr;
+	height: 100%;
+}
+
+#side_panel {
+	height: 100vh;
+	display: grid;
+	grid-template-rows: auto 1fr;
+}
+
 #table_container {
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	text-align: right;
-	height: 100vh;
 	overflow-y: scroll;
-}
-
-#timeTable {
-	border-collapse: separate;
-	border-spacing: 0;
 }
 
 #table_container::-webkit-scrollbar-track {
@@ -70,6 +76,11 @@
 
 #table_container::-webkit-scrollbar-thumb {
 	background-color: #444;
+}
+
+#timeTable {
+	border-collapse: separate;
+	border-spacing: 0;
 }
 
 tr:nth-child(even) {
@@ -99,10 +110,4 @@ body {
 	color: white;
 	height: 100vh;
 	overflow: hidden;
-}
-
-#screen-split {
-	display: grid;
-	grid-template-columns: auto 1fr;
-	height: 100%;
 }

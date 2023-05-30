@@ -14128,6 +14128,21 @@
   }).prototype = p = new cjs.MovieClip();
   p.nominalBounds = new cjs.Rectangle(107.6, 110.5, 731.2, 382);
   // library properties:
+
+  function get_image() {
+    const search_params = new URLSearchParams(window.location.search);
+    const img_key = search_params.get("img") ?? "original";
+    console.log({ search_params, img_key });
+    switch (img_key) {
+      case "holiday":
+        return "images/bloxorz_atlas_holiday.png";
+      case "gray":
+        return "images/bloxorz_atlas_gray.png";
+      case "original":
+      default:
+        return "images/bloxorz_atlas_original.png";
+    }
+  }
   lib.properties = {
     id: "FE31B685947E79408F0C8768D6EC8517",
     width: 550,
@@ -14136,7 +14151,7 @@
     color: "#000000",
     opacity: 1.0,
     manifest: [
-      { src: "images/bloxorz_atlas_.png", id: "bloxorz_atlas_" },
+      { src: get_image(), id: "bloxorz_atlas_" },
       { src: "sounds/Click.mp3", id: "Click" },
       { src: "sounds/Latch.mp3", id: "Latch" },
       { src: "sounds/blox003wav.mp3", id: "blox003wav" },
