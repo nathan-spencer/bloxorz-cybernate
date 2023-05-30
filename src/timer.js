@@ -25,7 +25,7 @@ function ResetTimer() {
 var cancelTimerToken;
 
 function StartTimer() {
-  cancelTimerToken = window.setInterval(UpdateTable, 3);
+  cancelTimerToken = window.setInterval(UpdateTable, 28);
 }
 
 function AddStageByLevel(level) {
