@@ -96,6 +96,15 @@ function ResumeTimer() {
   UpdateTable();
 }
 
+function RestartTimerForCurrentStage() {
+  pausedElapsed = 0;
+  startTime = Date.now();
+  timerActive = true;
+  clearInterval(cancelTimerToken);
+  cancelTimerToken = window.setInterval(UpdateTable, 50);
+  UpdateTable();
+}
+
 function AddStageByLevel(level) {
   clearInterval(cancelTimerToken);
   cancelTimerToken = null;

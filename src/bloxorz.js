@@ -10162,11 +10162,7 @@
 
       if (!_.hasToggleSound) {
         this.toggleSound.addEventListener("click", function () {
-          if (createjs.Sound.volume === 1) {
-            createjs.Sound.volume = 0;
-          } else {
-            createjs.Sound.volume = 1;
-          }
+          stage.toggleSound();
         });
         _.hasToggleSound = true;
       }
@@ -10223,6 +10219,8 @@
 
         stage.levelNumber = index + 1;
         setCurrentLevel(stage.levelNumber);
+        ResetTimer();
+        RestartTimerForCurrentStage();
         _.play();
       };
 
@@ -11918,6 +11916,33 @@
         window.localStorage && window.localStorage.setItem("level", num);
       };
 
+      stage.soundSave = {};
+      stage.soundSave.get = function () {
+        var value = window.localStorage && window.localStorage.getItem("soundEnabled");
+        if (value === null || value === undefined) {
+          return true;
+        }
+
+        return value === "1" || value === "true";
+      };
+
+      stage.soundSave.save = function (enabled) {
+        if (window.localStorage) {
+          window.localStorage.setItem("soundEnabled", enabled ? "1" : "0");
+        }
+      };
+
+      stage.setSoundEnabled = function (enabled) {
+        createjs.Sound.volume = enabled ? 1 : 0;
+        stage.soundSave.save(enabled);
+      };
+
+      stage.toggleSound = function () {
+        stage.setSoundEnabled(createjs.Sound.volume !== 1);
+      };
+
+      stage.setSoundEnabled(stage.soundSave.get());
+
       stage.touchMode = !!("ontouchstart" in window || navigator.maxTouchPoints);
     };
     this.frame_1 = function () {
@@ -12432,7 +12457,7 @@
           _.pauseMenu.play();
         });
         _.pauseMenu.buttons.toggleSound.addEventListener("click", function () {
-          createjs.Sound.volume = createjs.Sound.volume === 1 ? 0 : 1;
+          stage.toggleSound();
         });
         _.pauseMenu.buttons.quitToMenu.addEventListener("click", function () {
           _.pauseMenu.play();

@@ -14,8 +14,56 @@
 	<script src="bloxorz.js"></script>
 	<script>
 		var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
+		var VALID_THEMES = ["original", "gray", "holiday"];
+
+		function normalizeTheme(value) {
+			if (VALID_THEMES.indexOf(value) !== -1) {
+				return value;
+			}
+
+			return "original";
+		}
+
+		function getThemeFromUrl() {
+			var params = new URLSearchParams(window.location.search);
+			return normalizeTheme(params.get("img"));
+		}
+
+		function getStoredTheme() {
+			var saved = window.localStorage && window.localStorage.getItem("theme");
+			return normalizeTheme(saved);
+		}
+
+		function saveTheme(theme) {
+			window.localStorage && window.localStorage.setItem("theme", normalizeTheme(theme));
+		}
+
+		function buildThemeUrl(theme) {
+			var url = new URL(window.location.href);
+			url.searchParams.set("img", normalizeTheme(theme));
+			return url.toString();
+		}
+
+		(function syncThemeOnStartup() {
+			var params = new URLSearchParams(window.location.search);
+			var hasThemeInUrl = params.has("img") && params.get("img") !== "";
+			var themeFromUrl = getThemeFromUrl();
+			var storedTheme = getStoredTheme();
+
+			if (!hasThemeInUrl && storedTheme !== "original") {
+				window.location.replace(buildThemeUrl(storedTheme));
+				return;
+			}
+
+			saveTheme(themeFromUrl);
+		})();
 
 		function init() {
+			var imageSelect = document.getElementById("image_select");
+			if (imageSelect) {
+				imageSelect.value = getThemeFromUrl();
+			}
+
 			canvas = document.getElementById("canvas");
 			anim_container = document.getElementById("animation_container");
 			dom_overlay_container = document.getElementById("dom_overlay_container");
@@ -203,7 +251,9 @@
 
 		function change_image() {
 			let e = document.getElementById("image_select");
-			window.location.href = window.location.pathname + "?" + $.param({ 'img': e.value });
+			var selectedTheme = normalizeTheme(e && e.value);
+			saveTheme(selectedTheme);
+			window.location.href = buildThemeUrl(selectedTheme);
 		}
 	</script>
 </body>
