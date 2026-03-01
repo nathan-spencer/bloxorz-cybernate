@@ -1,11 +1,15 @@
 #canvas {
 	display: none;
 	background-color: rgba(0, 0, 0, 1.00);
+	position: absolute;
+	left: 0;
+	top: 0;
 }
 
 #dom_overlay_container {
 	pointer-events: none;
 	overflow: hidden;
+	position: absolute;
 	left: 0px;
 	top: 0px;
 	display: none;
@@ -44,6 +48,7 @@
 	background-color: #000;
 	overflow: hidden;
 	height: 100vh;
+	position: relative;
 }
 
 #screen-split {

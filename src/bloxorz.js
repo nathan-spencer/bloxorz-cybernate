@@ -9657,31 +9657,29 @@
     this.digit2.parent = this;
     this.digit2.setTransform(587, 19, 1, 1, 0, 0, 0, 97, -3);
 
-    //Removed last 4 digits from passcode.
-    // this.digit3 = new lib.numberdisplaysmallblack();
-    // this.digit3.name = "digit3";
-    // this.digit3.parent = this;
-    // this.digit3.setTransform(597, 19, 1, 1, 0, 0, 0, 97, -3);
+    this.digit3 = new lib.numberdisplaysmallblack();
+    this.digit3.name = "digit3";
+    this.digit3.parent = this;
+    this.digit3.setTransform(597, 19, 1, 1, 0, 0, 0, 97, -3);
 
-    // this.digit4 = new lib.numberdisplaysmallblack();
-    // this.digit4.name = "digit4";
-    // this.digit4.parent = this;
-    // this.digit4.setTransform(607, 19, 1, 1, 0, 0, 0, 97, -3);
+    this.digit4 = new lib.numberdisplaysmallblack();
+    this.digit4.name = "digit4";
+    this.digit4.parent = this;
+    this.digit4.setTransform(607, 19, 1, 1, 0, 0, 0, 97, -3);
 
-    // this.digit5 = new lib.numberdisplaysmallblack();
-    // this.digit5.name = "digit5";
-    // this.digit5.parent = this;
-    // this.digit5.setTransform(617, 19, 1, 1, 0, 0, 0, 97, -3);
+    this.digit5 = new lib.numberdisplaysmallblack();
+    this.digit5.name = "digit5";
+    this.digit5.parent = this;
+    this.digit5.setTransform(617, 19, 1, 1, 0, 0, 0, 97, -3);
 
-    // this.digit6 = new lib.numberdisplaysmallblack();
-    // this.digit6.name = "digit6";
-    // this.digit6.parent = this;
-    // this.digit6.setTransform(627, 19, 1, 1, 0, 0, 0, 97, -3);
+    this.digit6 = new lib.numberdisplaysmallblack();
+    this.digit6.name = "digit6";
+    this.digit6.parent = this;
+    this.digit6.setTransform(627, 19, 1, 1, 0, 0, 0, 97, -3);
 
-    //, { t: this.digit3 }, { t: this.digit4 }, { t: this.digit5 }, { t: this.digit6 }
     this.timeline.addTween(
       cjs.Tween.get({})
-        .to({ state: [{ t: this.digit1 }, { t: this.digit2 }] })
+        .to({ state: [{ t: this.digit1 }, { t: this.digit2 }, { t: this.digit3 }, { t: this.digit4 }, { t: this.digit5 }, { t: this.digit6 }] })
         .wait(56),
     );
 
@@ -10204,31 +10202,73 @@
       });
 
       var elem;
+      var value = "";
 
-      var handleChange = function (e) {
-        //value = e.target.value.slice(0, 6);
-        value = e.target.value.slice(0, 2);
-        if (elem) {
+      var checkPasscode = function (rawValue) {
+        value = ((rawValue || "") + "").replace(/\D/g, "").slice(0, 6);
+        if (elem && elem.value !== value) {
           elem.value = value;
         }
-        //if (value.length === 6) {
-        if (value.length === 2) {
-          var index = stage.levelCodes.indexOf(value);
-          if (index === -1) {
-            _.wrong.gotoAndPlay("nope");
-          } else {
-            stage.levelNumber = index + 1;
-            setCurrentLevel(stage.levelNumber);
-            _.play();
-          }
+
+        if (value.length !== 6) {
+          return;
+        }
+
+        var index = stage.levelCodes.indexOf(value);
+        if (index === -1) {
+          _.wrong.gotoAndPlay("nope");
+          return;
+        }
+
+        stage.levelNumber = index + 1;
+        setCurrentLevel(stage.levelNumber);
+        _.play();
+      };
+
+      var handleChange = function (e) {
+        checkPasscode(e.target && e.target.value);
+      };
+
+      var handleKeyDown = function (e) {
+        if (e.code === "Enter" || e.key === "Enter") {
+          var entered = ((e.target && e.target.value) || "") + "";
+          checkPasscode(entered);
         }
       };
 
-      setTimeout(function () {
+      var bindInput = function (retryCount) {
         elem = document.getElementById("loadLevelTextInput");
-        elem.removeEventListener("input", handleChange);
+        if (!elem) {
+          if (retryCount > 0) {
+            setTimeout(function () {
+              bindInput(retryCount - 1);
+            }, 50);
+          }
+          return;
+        }
+
+        if (stage.loadLevelInputElem && stage.loadLevelInputElem !== elem) {
+          stage.loadLevelInputElem.removeEventListener("input", stage.loadLevelInputHandleChange);
+          stage.loadLevelInputElem.removeEventListener("keydown", stage.loadLevelInputHandleKeyDown);
+        }
+
+        elem.removeEventListener("input", stage.loadLevelInputHandleChange);
+        elem.removeEventListener("keydown", stage.loadLevelInputHandleKeyDown);
+
+        stage.loadLevelInputElem = elem;
+        stage.loadLevelInputHandleChange = handleChange;
+        stage.loadLevelInputHandleKeyDown = handleKeyDown;
+
         elem.addEventListener("input", handleChange);
-      }, 100);
+        elem.addEventListener("keydown", handleKeyDown);
+
+        elem.focus();
+        if (elem.select) {
+          elem.select();
+        }
+      };
+
+      bindInput(40);
     };
     this.frame_221 = function () {
       stage.trapKeys = true;
@@ -11806,13 +11846,30 @@
 
       stage.trapKeys = true;
 
+      var isTextEntryTarget = function (target) {
+        if (!target) {
+          return false;
+        }
+
+        var tag = (target.tagName || "").toLowerCase();
+        return tag === "input" || tag === "textarea" || !!target.isContentEditable;
+      };
+
       window.addEventListener("keydown", function (e) {
-        stage.trapKeys && e.preventDefault();
+        if (stage.trapKeys && !isTextEntryTarget(e.target)) {
+          e.preventDefault();
+        }
       });
       window.addEventListener("keyup", function (e) {
-        stage.trapKeys && e.preventDefault();
+        if (stage.trapKeys && !isTextEntryTarget(e.target)) {
+          e.preventDefault();
+        }
       });
-      window.addEventListener("click", function () {
+      window.addEventListener("click", function (e) {
+        if (isTextEntryTarget(e.target)) {
+          return;
+        }
+
         window.focus();
       });
       window.buttonsWithSounds = [];
@@ -12784,7 +12841,10 @@
 
           var levelcode = level[0];
           levelcode.split("").map(function (num, index) {
-            _.background["digit" + (index + 1)].gotoAndStop(num);
+            var digit = _.background["digit" + (index + 1)];
+            if (digit && digit.gotoAndStop) {
+              digit.gotoAndStop(num);
+            }
           });
 
           _.updateMoveCounter();
