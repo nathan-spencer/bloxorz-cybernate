@@ -10191,6 +10191,7 @@
     this.frame_197 = function () {
       stage.levelNumber = Number(stage.localSave.get());
       setCurrentLevel(stage.levelNumber);
+      ResumeTimer();
       this.parent.gotoAndPlay("stagetitle");
     };
     this.frame_220 = function () {
@@ -11920,6 +11921,8 @@
       stage.touchMode = !!("ontouchstart" in window || navigator.maxTouchPoints);
     };
     this.frame_1 = function () {
+      PauseTimer();
+
       stage.levelNumber = 1;
       setCurrentLevel(stage.levelNumber);
       stage.levelAttempts = 0;

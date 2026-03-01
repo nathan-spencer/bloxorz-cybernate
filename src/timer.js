@@ -3,6 +3,8 @@ var TOTAL_STAGES = 33;
 var tableInitialized = false;
 var stageTimeCells = [];
 var currentLevelCell = null;
+var timerActive = false;
+var pausedElapsed = 0;
 
 function setCurrentLevel(levelNumber) {
   currentLevel = levelNumber;
@@ -15,7 +17,9 @@ function setCurrentLevel(levelNumber) {
       inline: "nearest",
     });
 
-  UpdateTable();
+  if (timerActive) {
+    UpdateTable();
+  }
 }
 var startTime = Date.now();
 var times = [];
@@ -44,6 +48,8 @@ function EnsureTable() {
 function ResetTimer() {
   startTime = Date.now();
   times = [];
+  timerActive = false;
+  pausedElapsed = 0;
 
   EnsureTable();
 
@@ -61,8 +67,33 @@ function ResetTimer() {
 var cancelTimerToken;
 
 function StartTimer() {
+  pausedElapsed = 0;
+  timerActive = true;
   clearInterval(cancelTimerToken);
   cancelTimerToken = window.setInterval(UpdateTable, 50);
+}
+
+function PauseTimer() {
+  if (!timerActive) {
+    return;
+  }
+
+  pausedElapsed = Date.now() - startTime;
+  timerActive = false;
+  clearInterval(cancelTimerToken);
+  cancelTimerToken = null;
+}
+
+function ResumeTimer() {
+  if (timerActive) {
+    return;
+  }
+
+  startTime = Date.now() - pausedElapsed;
+  timerActive = true;
+  clearInterval(cancelTimerToken);
+  cancelTimerToken = window.setInterval(UpdateTable, 50);
+  UpdateTable();
 }
 
 function AddStageByLevel(level) {
@@ -82,6 +113,10 @@ function AddStageByLevel(level) {
 function UpdateTable() {
   if (!tableInitialized) {
     EnsureTable();
+  }
+
+  if (!timerActive) {
+    return;
   }
 
   if (!currentLevelCell) {
