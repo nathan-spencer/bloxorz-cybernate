@@ -58,7 +58,8 @@
 			dom_overlay_container.style.display = canvas.style.display = 'block';
 			exportRoot = new lib.bloxorzhtml();
 			stage = new lib.Stage(canvas);
-			stage.enableMouseOver();
+			var isTouchDevice = !!("ontouchstart" in window || navigator.maxTouchPoints);
+			stage.enableMouseOver(isTouchDevice ? 0 : 10);
 			//Registers the "tick" event listener.
 			fnStartAnimation = function () {
 				stage.addChild(exportRoot);
@@ -188,25 +189,20 @@
 		<img id="preload_img" src="images/preloader.gif" />
 	</div>
 	<script>
-		function fnSendMsg(evt) {
+		var canNotifyParent = window.parent && window.parent !== window;
+
+		function fnSendMsg() {
+			if (!canNotifyParent) return;
 			window.parent.postMessage('keypress-from-game', '*');
 		}
-		document.body.addEventListener('click', function (event) {
-			fnSendMsg(event);
-		});
-		document.addEventListener('keypress', function (event) {
-			fnSendMsg(event);
-		});
-		document.addEventListener('keydown', function (e) {
-			fnSendMsg(event);
-		});
-		document.addEventListener('keyup', function (e) {
-			fnSendMsg(event);
-		});
+
+		document.body.addEventListener('click', fnSendMsg);
+		document.addEventListener('keypress', fnSendMsg);
+		document.addEventListener('keydown', fnSendMsg);
+		document.addEventListener('keyup', fnSendMsg);
 
 		function change_image() {
 			let e = document.getElementById("image_select");
-			console.log(e.value);
 			window.location.href = window.location.pathname + "?" + $.param({ 'img': e.value });
 		}
 	</script>

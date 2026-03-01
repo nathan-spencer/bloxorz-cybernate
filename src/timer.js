@@ -1,7 +1,12 @@
 var currentLevel = 1;
+var TOTAL_STAGES = 33;
+var tableInitialized = false;
+var stageTimeCells = [];
+var currentLevelCell = null;
 
 function setCurrentLevel(levelNumber) {
   currentLevel = levelNumber;
+  currentLevelCell = stageTimeCells[currentLevel] || null;
   let current_level_row = document.getElementById(`stage${currentLevel}`);
   if (current_level_row)
     current_level_row.scrollIntoView({
@@ -9,48 +14,87 @@ function setCurrentLevel(levelNumber) {
       block: "end",
       inline: "nearest",
     });
+
+  UpdateTable();
 }
-var startTime = new Date();
+var startTime = Date.now();
 var times = [];
 
-function ResetTimer() {
-  startTime = new Date();
-  times = [];
-  for (let i = 1; i <= 33; i++) {
-    times.push({ stage: i, time: 0 });
+function EnsureTable() {
+  if (tableInitialized) return;
+
+  var timeRows = document.getElementById("timeRows");
+  if (!timeRows) return;
+
+  var html = "";
+  for (let i = 1; i <= TOTAL_STAGES; i++) {
+    html += `<tr id='stage${i}'><td>${i}</td><td id='stage${i}time'>-</td></tr>`;
   }
+
+  timeRows.innerHTML = html;
+
+  for (let i = 1; i <= TOTAL_STAGES; i++) {
+    stageTimeCells[i] = document.getElementById(`stage${i}time`);
+  }
+
+  tableInitialized = true;
+  currentLevelCell = stageTimeCells[currentLevel] || null;
+}
+
+function ResetTimer() {
+  startTime = Date.now();
+  times = [];
+
+  EnsureTable();
+
+  for (let i = 1; i <= TOTAL_STAGES; i++) {
+    times[i] = 0;
+    if (stageTimeCells[i]) {
+      stageTimeCells[i].textContent = "-";
+    }
+  }
+
+  currentLevelCell = stageTimeCells[currentLevel] || null;
   UpdateTable();
 }
 
 var cancelTimerToken;
 
 function StartTimer() {
-  cancelTimerToken = window.setInterval(UpdateTable, 28);
+  clearInterval(cancelTimerToken);
+  cancelTimerToken = window.setInterval(UpdateTable, 50);
 }
 
 function AddStageByLevel(level) {
   clearInterval(cancelTimerToken);
-  times.find((s) => s.stage == level).time = new Date() - startTime;
+  cancelTimerToken = null;
+
+  var elapsed = Date.now() - startTime;
+  times[level] = elapsed;
+
+  if (stageTimeCells[level]) {
+    stageTimeCells[level].textContent = FormatDuration(elapsed);
+  }
+
   StartTimer();
 }
 
 function UpdateTable() {
-  var html = times
-    .map((t) => {
-      var time = "-";
-      if (t.stage == currentLevel)
-        time = FormatDuration(new Date() - startTime);
-      else if (t.time != 0) time = FormatDuration(t.time);
-      return `<tr id='stage${t.stage}'><td>${t.stage}</td><td>${time}</td></tr>`;
-    })
-    .join("");
+  if (!tableInitialized) {
+    EnsureTable();
+  }
 
-  document.getElementById("timeRows").innerHTML = html;
+  if (!currentLevelCell) {
+    currentLevelCell = stageTimeCells[currentLevel] || null;
+  }
+
+  if (!currentLevelCell) return;
+
+  currentLevelCell.textContent = FormatDuration(Date.now() - startTime);
 }
 
 function pad(num, places) {
-  var zero = places - num.toString().length + 1;
-  return Array(+(zero > 0 && zero)).join("0") + num;
+  return String(num).padStart(places, "0");
 }
 
 function FormatDuration(diff) {
